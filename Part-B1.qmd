@@ -73,11 +73,11 @@ library(readxl)
 ::: callout-note
 ## DRAM in a nutshell
 
-The main purpose of this project is to analyse, inform and develop a methodology that enables the implementation of community-based distributed recycling approach
+The main purpose of DRAM is to establish a blueprint methodlogy to the implemnetation of micro-chain values of recycling at a territorial level.
+This project is to analyse, inform and develop a methodology that enables the implementation of community-based distributed recycling approach
 :::
 
 ### **Post-growth as economical logic for the urban settings**
-
 The Anthropocene concept refers to the recent geological era acknowledging the new status of humanity as a geological force given the different markups in the ecosystems.
 Popularized by the chemist Paul Crutzen in 2000, and there is recent discussion on the origins of this new era. 
 Nevertheless, its is agree that the impact of humans as geological force rely on the first industrial revolution and is characterized by exponential changes in demography and economic growth since the 19th century that have led to the current climate change and biodiversity collapse.
