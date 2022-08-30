@@ -1,0 +1,259 @@
+---
+format:
+  # html:
+  #   toc: false
+  # docx:
+  #   toc: false
+  #   number-sections: false
+  #   highlight-style: github
+  #   linkcolor: blue
+  #   urlcolor: blue
+  #   link-citations: yes
+  pdf:
+    documentclass: article
+    classoption: [onecolumn]
+    geometry: [left=2cm,top=1.5cm,right=2cm,bottom=1.5cm]
+    papersize: a4paper
+    toc: false
+    number-sections: false
+    colorlinks: true
+    fontsize: 11pt
+    linkcolor: blue
+    urlcolor: blue
+    link-citations: yes
+    include-in-header: [preamble.tex]
+    include-before-body: [titlepage.tex]
+       
+    #fontfamily: arial 
+execute:
+  echo: false
+  warning: false    
+bibliography: library.bib
+csl: sage-vancouver.csl
+---
+
+```{r setup, include = FALSE, echo=FALSE, message=FALSE, eval=FALSE}
+#options(htmltools.dir.version = FALSE)
+#source("xaringan-themer.R")
+#library(vembedr)
+
+knitr::opts_chunk$set(
+  include = TRUE,
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  fig.path="Figures/",
+  out.width = "95%",
+  fig.align = 'center',
+  cache = FALSE,
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  fig.show = TRUE,
+  hiline = TRUE
+)
+
+# Link for the Figures
+URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
+library(here)
+library(fontawesome)
+library(tidyverse)
+library(networkD3)
+library(viridis)
+#library(icons)
+library(wordcloud2)
+library(tm)
+#library(kableExtra)
+library(readxl)
+#library(flextable)
+```
+
+<!--# Introducion -->
+
+# Section a: Extended Synopsis of the scientific proposal [max. 5 pages]
+
+::: callout-note
+## DRAM in a nutshell
+
+The main purpose of this project is to analyse, inform and develop a methodology that enables the implementation of community-based distributed recycling approach
+:::
+
+### **Post-growth as economical logic for the urban settings**
+
+The Anthropocene concept refers to the recent geological era acknowledging the new status of humanity as a geological force given the different markups in the ecosystems.
+Popularized by the chemist Paul Crutzen in 2000, and there is recent discussion on the origins of this new era. 
+Nevertheless, its is agree that the impact of humans as geological force rely on the first industrial revolution and is characterized by exponential changes in demography and economic growth since the 19th century that have led to the current climate change and biodiversity collapse.
+
+### **Rethink** **the manufacturing approaches**
+
+Manufacturing activities have been the motor for economic development. 
+However, the current ecological degradation demands to rethink the paradigms of the means of production. 
+Indeed, the manufacturing approaches in a post-growth economy context need to integrate the related societal issues of resource scarcity and waste accumulation in the urban lives. 
+The trend is reinforced by the fact that by 2050, it is expected that about 70% of the world's population will live in urban settlements [@ref]. 
+Likewise, it is expected that urban cities will be responsible for non-negligible environmental impact, producing about 50% of global waste, and 75% of greenhouse gas emissions which affects the sustainability of cities and the quality of city life [@Riffat2016]. 
+Therefore, *reconciling urban development and industrial development is not an easy task. 
+Systemic thinking is needed to identify major feedbacks in the strategic, the tactical and the operational decisions.*
+Thus, the type of information that decision-makers take into account is relevant at the moment to put in place informed decisions.
+
+### Design global / Manufacturing local approaches
+
+A major trend in the development of production systems seeks to establish an urban production model with decentralized and distributed characteristics [@Herrmann2020]. 
+Free and Open source and P2P as driver manufacturing system 
+This novel apporach aims to create a proximity with local stakeholders (suppliers, customers, workforce) creating a network of production sites in accordance with product demand and resource availability to promote 'local for local' or 'close- to-customer' concepts. This model aims for the the design global / manufacturing local which seems a proto-industrialization transition that is taking place given the major impact of the ICT technologies, and open source and commons approaches and the maker culture. There is a transition from DYI approaches towards what it can be called DIT together as a social manufacturing.
+
+
+
+One of the key factors of these transformations is the emergence of common-based additive manufacturing technologies that allows designers and the general public the production in small batch series in a more economical way, faster and on a local scale. Considering the different specificities of AM processes, a broad field of opportunity is emerging to develop more sustainable means of production at different levels of the value chain [@Despeisse2016]. 
+
+ At the design stage of parts: the design is freer and shapes can be optimized over parts modeled for more traditional processes.
+At the production stage, by the main principle of additive manufacturing, which consists of layer-by-layer manufacturing, there is less waste produced during production than technologies based on the removal or deformation of material.
+In use, the service life of parts is increased by insitu repair techniques.
+Finally, having a production closer to the final consumer reduces the carbon footprint of the distribution.
+
+
+### Distributed (Re)recycled resources production
+
+In that sense, the concept of urban factory is evolving as a disruptive approach and is the materialization of this manufacturing paradigm. 
+The urban factory is defined as "*a factory located in an urban environment that is actively utilizing the unique characteristics of its surroundings*". 
+It creates products with a focus on the local market and allows customer involvement during value creation. 
+The Urban Factory has a minimal negative impact on its environment while positively influencing the local economy" [@Herrmann2020; @Ijassi2022]. 
+Particularly, the recycled resources industry consists of a series of activities related to recycled resources -- e.g., recycling, refining, remanufacturing, etc. -- aspiring to mitigate the negative externality caused by the linear economy (Bokken et al., 2016; Wang et al., 2019). 
+The sustainable development of the RRI has thus been highlighted on many countries' agendas to promote the circular society, as well as the goals of carbon peak and carbon neutralization (Türkeli et al., 2018).
+
+
+
+The most common form of additive manufacturing is fused filament fabrication, which is a material extrusion process. 3-D printing filament can be manufactured economically using distributed means with a waste plastic extruder (often called a “recyclebot”) (Baechler et al., 2013).
+Recycling is a well-known environmental benefit and performing distributed recycling of plastic waste into 3-D printing filament decreases the embodied energy of filament by 90% compared to traditional centralized filament manufacturing using fossil fuels as inputs (Kreiger et al., 2013; 2014; Zhong et al., 2017). 
+Using distributed recycling fits into the circular economy paradigm (Unruh, 2018; Zhong and Pearce, 2018; Shonnard et al, 2019; Garmulewicz et al. 2018), as it eliminates most embodied energy and pollution from transportation between processing steps. 
+This makes distributed recycling and additive manufacturing (DRAM) environmentally superior to other methods of plastic recycling.
+
+
+### My implication in the State-of-the-art
+
+Since 2014, I have working towards the distributed recycling via additive manufacturing approach[@CruzSanchez2020], validating the open source 3D printing as a reliable technique process. This validation of the process have also include the polymer recycling process as a possible industrial vector that enables can give possible uses to this abundant material.
+
+Studies on the technical viability of recycled materials as substitutes for conventional virgin materials are still limited to particular applications [@Mikula2020]. We have proved that for prototyping is the case [@ref]. We need to imagine that the use of recycled assets becomes a norm and not a exception in the industrial process. This is important given that in a post-growth appproachs, the rarefication of virgin assets is a plausible scenario.
+
+### Preliminary studies on the use of rec
+
+
+
+\newpage
+
+
+
+
+# Section b: Curriculum vitae (max. 2 pages)
+
+<!-- [Please follow the template below as much as possible. Please note that the CV part has been slightly modified compared to 2022 calls (“Supervision of Graduate Students and Postdoctoral Students” has been removed from the structured CV for Starting Grant and Consolidator Grant applicants).]  -->
+
+## PERSONAL INFORMATION
+
+
+\begin{tabu} to \linewidth {X[1,l] X[2,l]}
+Cruz, First name: & \textbf{CRUZ SANCHEZ, Fabio Alberto} \\
+Researcher unique identifier: & \textbf{ORCID}: 0000-0001-8529-5327 \\
+Date of birth:& 06/05/1988\\
+Nationality: &            Colombian / French\\
+URL for web site: & \href{fabbiocrux.com}{\url{fabbiocrux.com}}   \\
+\end{tabu}
+
+
+
+## Education
+
+\begin{tabu} to \linewidth {X[0.4,l] X[2,l]}
+2013 -- 2016 & Ph.D. in Industrial Engineeringat the Université de Lorraine \par
+	Title: \textbf{\emph{Methodological proposition to evaluate polymer recycling in open-source additive manufacturing contexts}} \par\vspace{5pt}
+	
+	\begin{itemize}
+	     \item \textbf{Director:} Prof. Mauricio Camargo --  ERPI, Nancy - France
+	    \item \textit{Prof.} Hakim Boudaoud PERRY --  ERPI, Nancy - France
+	    \item \textit{Dr.} Sandrine Hoppe -- LRGP, Nancy
+	\end{itemize} \\
+\end{tabu}
+
+The thesis is a result of a innovative collaboration between the Industrial Engineergin Laboratory and the Chemical .
+I participate in the Symposium congress at Texas University. 
+This enables the collaboration with Prof. Joshua Pearce in the domaine of Distributed recycling via additive manufacturing. 
+This enables me to co-create the open hardware approaches fostered with the innovation multi-scale at ERPI laboratory.
+
+## Current Position
+
+\begin{tabu} to \linewidth {X[0.3,l] X[2,l]}
+2022 & Research Associate at the ERPI Laboratory\\
+
+ & École nationale supérieure en génie des systèmes et de l'innovation --ENSGSI- \par
+ Équipe de Recherche sur les Processus Innovatifs --ERPI-, Université de Lorraine, France
+\end{tabu}
+
+## PREVIOUS POSITION
+\begin{tabu} to \linewidth {X[0.3,l] X[2,l]}
+2020 - 2021 & Post-Doctoral at Unievrsité Technologique de Troyes -UTT\\
+ & \\
+\end{tabu}
+
+
+## Fellowships AND PRIZES
+
+## Main Teaching aactivities
+
+## Organisation of Scientific meeting
+\begin{tabu} to \linewidth {X[0.3,l] X[2,l]}
+
+2022  & Invited lecturer to the Workshop of Additive Manufacturing \textit{ }". 300 Participants. ERPI - Nancy\\
+ & \\
+
+2022  & Member of the organization committee of the IEEE ICE / IAMOT joint conference on the topic of "\textit{Technology, Engineering, andInnovation Management Communities as Enablers for Social-Ecological Transitions}". 300 Participants. ERPI - Nancy\\
+ & \\
+ 
+\end{tabu}
+
+## INSTITUTIONAL RESPONSIBILITIES (if applicable)
+
+## 	REVIEWING ACTIVITIES (if applicable)
+201? – 	Scientific Advisory Board, Name of University/ Institution/ Country
+201? – 	Review Board, Name of University/ Institution/ Country
+201? –	Review panel member, Name of University/ Institution/ Country
+201? – 	Editorial Board, Name of University/ Institution/ Country
+200? – 	Scientific Advisory Board, Name of University/ Institution/ Country
+200? –	Reviewer, Name of University/ Institution/ Country 
+200? –	Scientific Evaluation, Name of University/ Institution/ Country
+200? –	Evaluator, Name of University/ Institution/ Country
+
+
+## MEMBERSHIPS OF SCIENTIFIC SOCIETIES (if applicable)
+201? –	Member, Research Network “Name of Research Network”
+200? –	Associated Member, Name of Faculty/ Department/Centre, Name of University/ Institution/ Country
+200? –	Founding Member, Name of Faculty/ Department/Centre, Name of University/ Institution/ Country 
+
+## 	MAJOR COLLABORATIONS (if applicable)
+
+- Joshua Pearce, "Technical evaluation of the distributed recycling approach", Name of Faculty/ Department/Centre, Western University / Institution/ Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage
+# References {#References .unnumbered}
+
+- urban waste market is not separated to the existing circuits of waste management [@]
+- case-based empirical research looking at how waste markets are evolving in response to resource efficiency discourses
+
+
+
+
+
+
+
+
+
+
+

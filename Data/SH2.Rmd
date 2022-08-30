@@ -1,0 +1,99 @@
+---
+documentclass: article
+classoption: landscape
+geometry: "left=0.5cm,top=0.5cm,right=0.5cm,bottom=0.5cm"
+output:
+   bookdown::pdf_document2:
+     toc: false
+     includes:
+#       in_header: preamble.tex
+       #before_body: titlepage.tex
+     keep_tex: true
+     df_print: kable
+     number_sections: true
+     latex_engine: xelatex
+bibliography: library.bib 
+csl: sage-vancouver.csl
+link-citations: yes
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+header-includes:
+- \usepackage{multirow}
+---
+
+```{r setup, include = FALSE, echo=FALSE, message=FALSE}
+#options(htmltools.dir.version = FALSE)
+#source("xaringan-themer.R")
+#library(vembedr)
+
+knitr::opts_chunk$set(
+   include = TRUE,
+   fig.width=9, fig.height=3.5, fig.retina=3,
+   fig.path="Figures/",
+   out.width = "95%",
+   fig.align = 'center',
+   cache = FALSE,
+   echo = FALSE,
+   message = FALSE, 
+   warning = FALSE,
+   fig.show = TRUE,
+   hiline = TRUE
+)
+
+# Link for the Figures
+URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
+library(here)
+library(fontawesome)
+library(tidyverse)
+library(networkD3)
+library(viridis)
+#library(icons)
+#library(wordcloud2)
+#library(tm)
+library(kableExtra)
+library(readxl)
+library(readr)
+```
+
+
+```{r load, include=FALSE}
+Data <- read_csv2(file="Data/Data-SH2.csv")
+Data <- Data %>% separate(col="Call ID", into=c("ERC","Year","Type") , sep="-")
+
+Data <- Data %>% arrange(desc(Year))
+
+names(Data)[2] <- "acronym"
+names(Data)[3] <- "title"
+names(Data)[4] <- "abstract"
+#View(Data)
+#names(Data)
+```
+
+# Projects ERC 2012 -2022 Panel SH2
+
+
+
+
+```{r, eval=TRUE, include=TRUE}
+
+Data <- Data %>% select(acronym, title, abstract, Year)
+Data <- Data %>% mutate(ID = paste(acronym,title, sep = '\n\n' )) %>% select(ID, abstract, Year)
+
+#Data$acronym = cell_spec(Data$acronym, angle = 90)
+
+kable(Data,
+      #format    = "latex", 
+      #escape = F,
+      longtable = T, 
+      booktabs  = T, 
+      caption   = "ERC Abstracts") %>%  
+   kable_paper("striped",full_width = F) %>%
+  #column_spec(1, bold = T, border_right = T, latex_column_spec = ">{\\\\tiny}p{5em}") %>%
+  column_spec(1, border_right = T,width = "8em") %>% 
+   column_spec(2, border_right = T, width = "60em") %>% 
+   row_spec(c(1:201), hline_after = T)
+
+
+```
+
