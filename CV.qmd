@@ -1,0 +1,101 @@
+
+# Section b: Curriculum vitae (max. 2 pages)
+
+<!-- [Please follow the template below as much as possible. Please note that the CV part has been slightly modified compared to 2022 calls (“Supervision of Graduate Students and Postdoctoral Students” has been removed from the structured CV for Starting Grant and Consolidator Grant applicants).]  -->
+
+## PERSONAL INFORMATION
+
+```{=tex}
+\begin{tabu} to \linewidth {X[1,l] X[2,l]}
+Cruz, First name: & \textbf{CRUZ SANCHEZ, Fabio Alberto} \\
+Researcher unique identifier: & \textbf{ORCID}: 0000-0001-8529-5327 \\
+Date of birth:& 06/05/1988\\
+Nationality: &            Colombian / French\\
+URL for web site: & \href{fabbiocrux.com}{\url{fabbiocrux.com}}   \\
+\end{tabu}
+```
+## Education
+
+```{=tex}
+\begin{tabu} to \linewidth {X[0.4,l] X[2,l]}
+2013 -- 2016 & Ph.D. in Industrial Engineeringat the Université de Lorraine \par
+    Title: \textbf{\emph{Methodological proposition to evaluate polymer recycling in open-source additive manufacturing contexts}} \par\vspace{5pt}
+    
+    \begin{itemize}
+         \item \textbf{Director:} Prof. Mauricio Camargo --  ERPI, Nancy - France
+        \item \textit{Prof.} Hakim Boudaoud PERRY --  ERPI, Nancy - France
+        \item \textit{Dr.} Sandrine Hoppe -- LRGP, Nancy
+    \end{itemize} \\
+\end{tabu}
+```
+The thesis is a result of a innovative collaboration between the Industrial Engineergin Laboratory and the Chemical .
+I participate in the Symposium congress at Texas University.
+This enables the collaboration with Prof. Joshua Pearce in the domaine of Distributed recycling via additive manufacturing.
+This enables me to co-create the open hardware approaches fostered with the innovation multi-scale at ERPI laboratory.
+
+## Current Position
+
+```{=tex}
+\begin{tabu} to \linewidth {X[0.3,l] X[2,l]}
+2022 & Research Associate at the ERPI Laboratory\\
+
+ & École nationale supérieure en génie des systèmes et de l'innovation --ENSGSI- \par
+ Équipe de Recherche sur les Processus Innovatifs --ERPI-, Université de Lorraine, France
+\end{tabu}
+```
+## PREVIOUS POSITION
+
+```{=tex}
+\begin{tabu} to \linewidth {X[0.3,l] X[2,l]}
+2020 - 2021 & Post-Doctoral at Unievrsité Technologique de Troyes -UTT\\
+ & \\
+\end{tabu}
+```
+## Fellowships AND PRIZES
+
+## Main Teaching aactivities
+
+## Organisation of Scientific meeting
+
+```{=tex}
+\begin{tabu} to \linewidth {X[0.3,l] X[2,l]}
+
+2022  & Invited lecturer to the Workshop of Additive Manufacturing \textit{ }". 300 Participants. ERPI - Nancy\\
+ & \\
+
+2022  & Member of the organization committee of the IEEE ICE / IAMOT joint conference on the topic of "\textit{Technology, Engineering, andInnovation Management Communities as Enablers for Social-Ecological Transitions}". 300 Participants. ERPI - Nancy\\
+ & \\
+ 
+\end{tabu}
+```
+## INSTITUTIONAL RESPONSIBILITIES (if applicable)
+
+## REVIEWING ACTIVITIES (if applicable)
+
+201?
+-- Scientific Advisory Board, Name of University/ Institution/ Country 201?
+-- Review Board, Name of University/ Institution/ Country 201?
+-- Review panel member, Name of University/ Institution/ Country 201?
+-- Editorial Board, Name of University/ Institution/ Country 200?
+-- Scientific Advisory Board, Name of University/ Institution/ Country 200?
+-- Reviewer, Name of University/ Institution/ Country 200?
+-- Scientific Evaluation, Name of University/ Institution/ Country 200?
+-- Evaluator, Name of University/ Institution/ Country
+
+## MEMBERSHIPS OF SCIENTIFIC SOCIETIES (if applicable)
+
+201?
+-- Member, Research Network "Name of Research Network" 200?
+-- Associated Member, Name of Faculty/ Department/Centre, Name of University/ Institution/ Country 200?
+-- Founding Member, Name of Faculty/ Department/Centre, Name of University/ Institution/ Country
+
+## MAJOR COLLABORATIONS (if applicable)
+
+-   Joshua Pearce, "Technical evaluation of the distributed recycling approach", Name of Faculty/ Department/Centre, Western University / Institution/ Canada.
+
+\newpage
+
+# References {#References .unnumbered}
+
+-   urban waste market is not separated to the existing circuits of waste management \[\@\]
+-   case-based empirical research looking at how waste markets are evolving in response to resource efficiency discourses

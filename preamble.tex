@@ -139,5 +139,16 @@
 %   {\end{itemize}}
 % 
 
-%\usepackage{titlesec}
-%\titlespacing*{\subsubsection}{0pt}{1.1\baselineskip}{\baselineskip}
+% 
+\let\paragraph\oldparagraph
+\let\subparagraph\oldsubparagraph
+% 
+\usepackage[compact]{titlesec}         % you need this package
+\titlespacing{\subsubsection}{0pt}{3pt}{0pt} % this reduces space between (sub)sections to 0pt, for example
+% \AtBeginDocument{%                     % this will reduce spaces between parts (above and below) of texts within a (sub)section to 0pt, for example - like between an 'eqnarray' and text
+%   \setlength\abovedisplayskip{0pt}
+%   \setlength\belowdisplayskip{0pt}}
+
+\usepackage{indentfirst}
+\setlength{\parindent}{15pt}% too much in my eyes delete this
+  
