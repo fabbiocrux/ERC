@@ -82,29 +82,39 @@ We seek to the achievement of a three-level target: (1) the establishment of a f
 
 
 ### **Plastics and the Antropocene: a change is needed**
+<!-- Intro -->
 Plastic waste contamination is one of the relevant stratigraphic indicator of what is recently considered the Anthropocene era [@de-la-torre2021]. 
+   <!-- Anthropocene -->
 Popularized by the chemist Paul Crutzen in 2000, the antropocene recognizes humans not only as biological but as geological force acknowledging the new status of humanity given the different markups in the ecosystems that are impacting the stability of the earth system.
-This impact is characterized by the exponential changes in demography and economic growth since the 19th century that have led to the current climate change and biodiversity collapse.
+   <!-- Features of antropocene -->
+The plastic production increased at compound annual growth rate of 8.4%, passing from  $2Mt$ in 1950 to $368Mt$ in 2019, but about 9% have been recycled  while 79% was accumulated in landfills or the natural environment [@Geyer2017]. 
+The exponential changes in demography and economic growth since the 19th century that have led to the current climate change and biodiversity collapse because of the plastc pollution.
+
+There is a urgent necessity to create an deploy new, sustainable and inclusive methods of recycling inspired on the 
+
+DGML principle that has been conceptualized but not yet massively understood, accepted and deployed within our society. 
+
 The current manufacturing activities have played a major role as motor for the economic development but also the transgression of the planetary boundaries [@ONeill2018].
+
 
 ### **Rethink** **the manufacturing approaches**
 <!-- Rebound on mass production -->
 The rebound effect of the mass production paradigm demands to rethink the paradigms of the means of production given current ecological degradation.
-Indeed, the manufacturing approaches in a post-growth economy context need to integrate the related societal issues of resource scarcity and waste accumulation in the urban lives [@kallis2018; @savini2021].
+Indeed, the manufacturing approaches in a post-growth economy context need to integrate the related societal issues of resource scarcity and waste accumulation in the urban settlements [@kallis2018; @savini2021].
 
 ### **Post-growth as economical logic for the urban settings**
    <!-- Urban lives -->
 The trend is reinforced by the fact that by 2050, it is expected that about 70% of the world's population will live in urban settlements [@savini2021].
 Likewise, it is expected that urban cities will be responsible for non-negligible environmental impact, producing about 50% of global waste, and 75% of greenhouse gas emissions which affects the sustainability of cities and the quality of city life [@Riffat2016].
 Therefore, reconciling urban development and industrial development is not an easy task. 
-**Systemic design thinking is needed to identify major feedbacks in the strategic, the tactical and the operational decisions.** 
+**Systemic design thinking is needed to identify major feedbacks in the strategic, the tactical and the operational decisional levels** 
 Thus, the type of information that decision-makers take into account is relevant at the moment to put in place industrial systems.
 
 ### Design global / Manufacturing local approaches
    <!-- Presenting distributed approach -->
 A major trend in the development of production systems seeks to establish an urban production model with decentralized and distributed characteristics [@Herrmann2020].
    <!-- FOSH and P2P -->
-The free and open source (FOSH) and P2P approaches have been seen as potential driver to propose an alternative globalisation manufacturing paradigm [@Heikkinen2020a].
+The free and open source (FOSH), Open Source Appropriate Technology (OSAT) and P2P approaches have been seen as potential driver to propose an alternative globalisation manufacturing paradigm [@Heikkinen2020a].
 Aiming a 'design global / manufacturing local' seems a proto-industrialization transition that is taking place given the major impact of the technological development of technologies.
    <!-- Urban factory -->
 In that sense, the concept of urban factory is evolving as a disruptive approach and is the materialization of this manufacturing paradigm.
@@ -120,7 +130,7 @@ The sustainable development of the RRI has thus been highlighted on many countri
 The reduction of the dependence of oil-based materials, as plastics, is a systemic endeavor challengue.
 However, there is an plastic waste stock of 70 years of accumulation of plastics materials. 
 If the prot-systems of 'design global / manufacturing local' continues to be democratized, **we'll probably leading to a  future with a rebound effect of waste.** 
-Therefore, the major problem is today is how to conceived socio-technical 'circular units' that they will be designed in order to include the externalitites that  to give an broader environmental benefits.
+Therefore, the major problem today is how to conceived socio-technical 'circular units'  they will be designed in order to include the externalitites that  to give an broader environmental benefits.
 
 
 
@@ -137,8 +147,8 @@ However, using a systematic literature review, I realize that the system maturit
 Efforts have been in the materials and technical validation. 
 But, the system validation remains to be difficult. 
   <!-- Remainding the main challengue  -->
-In the context of a possible, we try to implement this approach  in the context of an on-going European collaborative research project, INEDIT[@ref].
-Nevertheless, the main challengue remains to make affordable the use of new secondary material applicability by the industry [@klotz2022].
+Currently, we try to implement this approach  in the context of an on-going European collaborative research project, INEDIT[@ref].
+Nevertheless, the main difficulty remains to make affordable the use of new secondary material applicability by the industry [@klotz2022].
 
 
 ### Distributed recycling via additive manufacturing
@@ -151,7 +161,7 @@ DRAM seeks to the achievement of a three-level target:
 1.
 
 ### A challenging task
-To appreciate the ground-breaking scientific nature of this idea, we can 
+To appreciate the ground-breaking scientific nature of this idea, 
 I like to highligth that historically, the plastic recycling has been oriented to centralized facilities in order to take advantage of economies of scale through the production of low-value products.
 However, it is proved to be an expensive process due to the inherent separate collection, transportation, processing and remanufacturing [@Hopewell2009; @Singh2017b]. 
 The consequence is for high volume and low weight polymers, the recycling of plastic is not cost-efficient in a centralized context.
