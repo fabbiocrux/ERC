@@ -1,0 +1,55 @@
+---
+format:
+  html:
+    toc: false
+execute:
+  echo: false
+  warning: false    
+bibliography: library.bib
+csl: sage-vancouver.csl
+subparagraph: yes
+---
+
+<!-- Complexities of Plastics -->
+
+    <u>underscored text </u>
+
+I like to highligth that historically, the plastic recycling has been oriented to centralized facilities in order to take advantage of economies of scale through the production of low-value products.
+However, it is proved to be an expensive process due to the inherent separate collection, transportation, processing and remanufacturing [@Hopewell2009; @Singh2017b].
+The consequence is for high volume and low weight polymers, the recycling of plastic is not cost-efficient in a centralized context.
+<!-- Deeping in the problem of recycling --> In fact, if we currently consider the sources of plastic waste and more specifically those from food packaging, we are faced with various limitations related to the types of material and their shaping.
+<!-- Sorting centers G1 --> More specifically, Taking the French case, the sorting centers find themselves with 3 material flows to manage.
+<!-- Group 1 --> The first group (G1), namely that of bottles and flasks, is well controlled with relatively distributed sorting throughout the French territory (about 150 sites) and centralized mechanical recycling in a few specialized centres by type of plastic (polyethylene (PE), polypropylene (PP), high density PE (HDPE) PET).
+<!-- G2 --> For the second group (G2: i.e. refusal of sorting PET, PP, PET/ HDPE mixture, polystyrene polyethylene (PS)), following the many actions carried out in recent years, we find ourselves with sorted plastics but due to a lack of circuit and value chain only residual energy value is considered although their properties are still high.
+<!-- G3 --> Finally, the third group (G3: i.e. biopolymers, polylactic acid (PLA), Polyhydroxyalkanoate (PHA)) consists of unsorted plastics that end up in landfills and on which we have very little information \[17\].
+
+### Rebound problem: democratization of the waste
+
+The reduction of the dependence of oil-based materials, as plastics, is a systemic endeavor challengue.
+However, there is an plastic waste stock of 70 years of accumulation of plastics materials.
+If the prot-systems of 'design global / manufacturing local' continues to be democratized, **we'll probably leading to a future with a rebound effect of waste.**
+
+<!-- Levels of analysis -->
+
+Considering the different specificities of AM processes, a broad field of opportunity is emerging to develop more sustainable means of production at different levels of the value chain [@Despeisse2016].
+
+### Preliminary studies on the use of rec
+
+-   The use of recycled materials like polymer waste is going to be one of the stock that we"ll nedd to use given the scarcity of
+-   Assitive manufacturing is a potential enabler of change for manufacturing
+-   the community-base recycling approach is a scale of the changes
+-   major efforts in the implementation of community-driven recycling approach is needed in the urban settlements
+-   the proposition of system dynamics as modelisation tool to understand the the main gap in ecosystems services are needed in the ) like a bacterias, we need to develop a industrial infrastructure that stimulus the regenerative use of products
+-   Validation of open source as a means to foster the manufacturing conviviality
+-   Resilience as a major backtrack for industrial processes in the future
+-   Pluralism forms of evaluation needs to be developed to evaluate the implementation strategies of community-drivesn strategies of manufacturing.\
+-   Mechanical recycling is leading a path in the transformation of waste-to-ressource atoms
+-   
+
+towards the distributed recycling via additive manufacturing approach[@CruzSanchez2020], validating the open source 3D printing as a reliable technique process.
+This validation of the process have also include the polymer recycling process as a possible industrial vector that enables can give possible uses to this abundant material.
+
+Studies on the technical viability of recycled materials as substitutes for conventional virgin materials are still limited to particular applications [@Mikula2020].
+We have proved that for prototyping is the case [@ref].
+We need to imagine that the use of recycled assets becomes a norm and not a exception in the industrial process.
+This is important given that in a post-growth appproachs, the rarefication of virgin assets is a plausible scenario.
