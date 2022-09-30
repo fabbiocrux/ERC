@@ -9,6 +9,29 @@ bibliography: library.bib
 csl: sage-vancouver.csl
 subparagraph: yes
 ---
+## INEDIT
+
+The Do-It-Yourself (DIY) movement promoted this kind of flexible and agile fabrication dedicated to individual makers mainly for sustainability purpose. The DIY movement is still alive within innovation spaces like FabLabs that characterize makers’ physical spaces or workshops. Alongside the DIY movement, the social manufacturing concept has emerged as an open, hence, more democratic way of manufacturing by the fact that the design process is able to integrate individuals (or group of individuals) to contribute. It is defined as a novel manufacturing mode, in which the consumers are involved fully into the production process by the internet (Shang et al. 2013). Consumers can manage distributed socialized manufacturing resources and activities through online platforms to facilitate personalized real-time and socialized production (Mohajeri et al. 2014; Jiang et al. 2016). Thus, it engages different skills in the production process leading to new value creation supported by the “Do-It-Together” (DIT) form of participatory design and collaborative production strategy. The means of social manufacturing enable the integration of individuals/customer in all the processes of physical products manufacturing, from ideation to production. These radical means make DIT more suitable to small-scale production at local sites. Indeed, it offers new business opportunities particularly for Small and Medium-sized Enterprises (SMEs) that have more difficulty to fulfill the ever-changing customer demand.
+
+
+### Plastics and the Antropocene: a change is needed
+<!-- Intro -->
+Plastic waste contamination is one of the relevant stratigraphic indicator of what is recently considered the Anthropocene era [@de-la-torre2021]. 
+   <!-- Anthropocene: Popularized by the chemist Paul Crutzen in 2000 -->
+The anthropocene frames the humans not only as biological but as geological force acknowledging the new status of humanity given the different markups in the ecosystems that are impacting the stability of the earth system.
+   <!-- Consequence of  -->
+The current globalized manufacturing activities have played a major role not only as motor for the economic development, but also the transgression of the planetary boundaries [@ONeill2018].
+   <!-- Features of antropocene -->
+For instance, the plastic production increased at compound annual growth rate of 8.4%, passing from  $2Mt$ in 1950 to $368Mt$ in 2019, but about 9% have been recycled  while 79% was accumulated in landfills or the natural environment [@Geyer2017]. 
+   <!-- Major plastic problematic -->
+Soil and marine plastic pollution shows ecological, biogeochemical and physical thresholds and they are becoming a key component of the planetary boundary threat associated with chemical pollutants.
+   <!-- European Union Perspective  -->
+   <!-- Paradox  -->
+The delay that implies to put in place an alternative productive model is the main the paradox in this issue. 
+This implies the scientific questions on how to manage the huge amount of waste already present in the nature and the plastic waste generated in the short term expecting that materials science and industrial corpus develops feedstock in corcordance with the bio-geological cycles.
+   <!-- changes in demography -->
+<!-- This is impulsed by the population increased from 3 to 6 billion since 1950, while the leap in economic activity  increased of 15-fold over that period, which is even more critical [@steffen2011].  -->
+Indeed, the rebound effect of the global mass production paradigm demands to rethink the paradigms of the means of production given the ecological degradation.
 
 <!-- Complexities of Plastics -->
 
@@ -53,3 +76,17 @@ Studies on the technical viability of recycled materials as substitutes for conv
 We have proved that for prototyping is the case [@ref].
 We need to imagine that the use of recycled assets becomes a norm and not a exception in the industrial process.
 This is important given that in a post-growth appproachs, the rarefication of virgin assets is a plausible scenario.
+
+
+
+
+
+### Getting stuck with the scale paradigm for recycling 
+   <!-- Validation of the Mechanical recycling -->
+Different routes have been developed for plastic recycling (see Figure)
+
+From an energy and environmental perspective, the scientific literature [@Arena2003, @Perugini2005, @Lazarevic2010, @Piemonte2011] proves that the mechanical recycling strategy is the most suitable plastic waste management option for relatively clean and homogeneous plastic and bioplastic waste streams compared to landfilling or incineration alternatives.  
+   <!-- THe problem of mechanical recycling -->
+However, transitioning to sustainable plastics in the manufacturing of plastic products, parts, and packaging is influenced by the complex interconnections between polymer producers - petrochemical companies- [10], converters [11], brand owners or manufacturers [12], retailers and consumers [13], and recycling operators [14], as well as the influences of policymakers in wider economic and societal changes [11].
+Economic, social, political and technological barriers must be overcome for sustainable plastic management [9]. 
+
