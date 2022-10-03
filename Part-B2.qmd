@@ -1,0 +1,73 @@
+---
+format:
+  # html:
+  #   toc: false
+  # docx:
+  #   toc: false
+  #   number-sections: false
+  #   highlight-style: github
+  #   linkcolor: blue
+  #   urlcolor: blue
+  #   link-citations: yes
+  pdf:
+    documentclass: article
+    classoption: [onecolumn]
+    geometry: [left=2cm,top=1.5cm,right=2cm,bottom=1.5cm]
+    papersize: a4paper
+    toc: false
+    number-sections: false
+    colorlinks: true
+    fontsize: 11pt
+    linkcolor: blue
+    urlcolor: blue
+    link-citations: yes
+    include-in-header: [preamble.tex]
+    include-before-body: [titlepage.tex]
+    keep-tex: true
+       
+    #fontfamily: arial 
+execute:
+  echo: false
+  warning: false    
+bibliography: library.bib
+csl: sage-vancouver.csl
+subparagraph: yes
+---
+
+```{r setup, include = FALSE, echo=FALSE, message=FALSE, eval=FALSE}
+#options(htmltools.dir.version = FALSE)
+#source("xaringan-themer.R")
+#library(vembedr)
+
+knitr::opts_chunk$set(
+  include = FALSE,
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  fig.path="Figures/",
+  out.width = "95%",
+  fig.align = 'center',
+  cache = FALSE,
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  fig.show = TRUE,
+  hiline = TRUE
+)
+
+# Link for the Figures
+URL = c('https://raw.githubusercontent.com/fabbiocrux/Figures/main/')
+
+library(here)
+#library(fontawesome)
+library(tidyverse)
+#library(networkD3)
+#library(viridis)
+#library(icons)
+#library(wordcloud2)
+#library(tm)
+#library(kableExtra)
+#library(readxl)
+#library(flextable)
+```
+
+<!--# Introducion -->
+

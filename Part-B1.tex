@@ -176,6 +176,9 @@
 %\usepackage{pdflscape} % hacer el documento lanscape en las hojas
 %\usepackage{enumitem} % offers ready-made options for eliminating the space between items and paragraphs within the list (noitemsep) or all vertical spacing (nosep): 
 
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep}
+
 %\usepackage{afterpage} % For make blank pages
 \usepackage{pdfpages} % For insert the title page.
 
@@ -381,14 +384,14 @@
 
 \end{titlepage}
 
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[sharp corners, enhanced, frame hidden, breakable, boxrule=0pt, interior hidden, borderline west={3pt}{0pt}{shadecolor}]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[breakable, sharp corners, interior hidden, borderline west={3pt}{0pt}{shadecolor}, enhanced, frame hidden, boxrule=0pt]}{\end{tcolorbox}}\fi
 
 \hypertarget{section-a-extended-synopsis-of-the-scientific-proposal-max.-5-pages}{%
 \section{Section a: Extended Synopsis of the scientific proposal {[}max.
 5
 pages{]}}\label{section-a-extended-synopsis-of-the-scientific-proposal-max.-5-pages}}
 
-\begin{tcolorbox}[enhanced jigsaw, arc=.35mm, breakable, leftrule=.75mm, opacityback=0, toprule=.15mm, colframe=quarto-callout-note-color-frame, titlerule=0mm, colbacktitle=quarto-callout-note-color!10!white, colback=white, bottomtitle=1mm, left=2mm, toptitle=1mm, opacitybacktitle=0.6, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{DRAM in a nutshell}, rightrule=.15mm, bottomrule=.15mm, coltitle=black]
+\begin{tcolorbox}[enhanced jigsaw, opacitybacktitle=0.6, colbacktitle=quarto-callout-note-color!10!white, opacityback=0, coltitle=black, arc=.35mm, rightrule=.15mm, toptitle=1mm, colframe=quarto-callout-note-color-frame, breakable, toprule=.15mm, colback=white, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{DRAM in a nutshell}, bottomtitle=1mm, titlerule=0mm, bottomrule=.15mm, leftrule=.75mm, left=2mm]
 The aim of DRAM is to establish a blueprint methodology for the
 implementation of micro-chain values of distributed recycling at a urban
 territorial level. We seek to the achievement of a three-level target:
@@ -415,22 +418,20 @@ relevants stratigraphic indicator of what is recently disscused as the
 Anthropocene era. The anthropocene frames the humans not only as
 biological but as geological force acknowledging the new status of
 humanity given the different markups in the ecosystems that are
-impacting the stability of the earth system. Since 250 years, the
-current globalized manufacturing activities have played a major role not
-only as motor for the economic development, but also the transgression
-of the planetary
+impacting the stability of the earth system. The current globalized
+manufacturing activities have played a major role not only as motor for
+the economic development, but also the transgression of the planetary
 boundaries\textsuperscript{\protect\hyperlink{ref-ONeill2018}{2}}. The
 economic development was often triggered and catalyzed by the
 introduction of new technologies and concepts for value creation, as
 shown by the historical industrialization trends.
 
-\begin{figure}
-
-\includegraphics{Figures/Fabio.png} \hfill{}
-
-\caption{Elephant}
-
-\end{figure}
+\begin{wrapfigure}[14]{r}[0pt]{0.4\textwidth}
+\centering
+    \includegraphics[width=0.35\textwidth]{Figures/Herrmann2020.png}
+    \caption{This is a figure positioned at the right and wrapped with text.}
+    \label{fig:img1}
+\end{wrapfigure}
 
 The mass manufacturing socio-technical systems is understood as a deep
 transition\textsuperscript{\protect\hyperlink{ref-kanger2022}{3}}, where
@@ -457,13 +458,13 @@ marginal. This scenario is not true today.
 production}\label{major-long-vision-circular-and-convivial-production}}
 
 Today, a major societal issue rely on how to conceived socio-technical
-`circular units' for (re-)manufacturing that are
+`circular units' for manufacturing that are
 resilient\textsuperscript{\protect\hyperlink{ref-ref}{\textbf{ref?}}},
 adaptable\textsuperscript{\protect\hyperlink{ref-ref}{\textbf{ref?}}}
-and evolutive in urban settlements. The reuse, repairing, recycling,
-decycling approaches will need to converge in a post-growth economy
-context need to integrate the related societal issues of resource
-scarcity and waste accumulation in the urban
+and evolutive in urban settlements. The reuse, repairing, recycling
+approaches will need to converge in a post-growth economy context need
+to integrate the related societal issues of resource scarcity and waste
+accumulation in the urban
 settlements\textsuperscript{\protect\hyperlink{ref-kallis2018}{4},\protect\hyperlink{ref-savini2021}{5}}.
 Indeed, today the establishment of this socio-technical systems need to
 include all ecosystem externalitites and the carrying capacity of the
@@ -519,11 +520,13 @@ printing as a robust manufacturing
 system\textsuperscript{\protect\hyperlink{ref-CruzSanchez2014}{12}}, but
 also as a potential enabler of the mechanical
 recycling\textsuperscript{\protect\hyperlink{ref-Cruz2015}{13},\protect\hyperlink{ref-CruzSanchez2017}{14}}
-of plastic waste material. Distributed recycling (See
-Figure~\ref{fig-DRAM}) is a breakthrough promise in the constitution of
-a micro-circular industry units to validate the technical feasibility,
-and several technologic pathways are maturing to allow individuals to
-recycle waste plastic directly by 3D-printing it into valuable products.
+of plastic waste material. This scientific topic is called distributed
+recycling via additive manufacuturing (DRAM) (See
+Figure~\ref{fig-DRAM}). DRAM is a breakthrough promise in the
+constitution of a micro-circular industry units to validate the
+technical feasibility, and several technologic pathways are maturing to
+allow individuals to recycle waste plastic directly by 3D-printing it
+into valuable products.
 
 \begin{figure}
 
@@ -597,7 +600,7 @@ difficulty remains to make affordable the use of new secondary material
 applicability by the
 industry\textsuperscript{\protect\hyperlink{ref-klotz2022}{26}}, but at
 the end, for urban planning and polycimaking to make concrete the
-ambition of circuclar economy inside the urban and regional settlements.
+ambition of circular economy inside the urban and regional settlements.
 
 \hypertarget{ambition-objectives}{%
 \subsection{2. Ambition \& objectives}\label{ambition-objectives}}
@@ -611,8 +614,8 @@ systems\textsuperscript{\protect\hyperlink{ref-ref}{\textbf{ref?}}}
 remains a systemic problem and it calls for pushing forward the
 boundaries of knowledge in the fuzzy front-end design phases of
 socio-technical manufacturing configurations. There is a urgent
-necessity to better understand how to develop and implement
-manufacturing socio-technical demonstrators at urban levels to unleash a
+necessity to better understand how to develop, implement and evaluate
+socio-technical circular demonstrators at urban levels to unleash a
 sustainability transition towards appropriate and inclusive
 micro-manufacturing and recycling values chains inspired on the
 \emph{``Design Global / Manufacturing local'' principles}. By exploring
@@ -621,49 +624,51 @@ project is create a systemic blueprint methodological approach to fully
 expand the frontiers of the design socio-technical manufacturing systems
 as a sustainable transitions in urban settlements.} To do so, the SDRAM
 project aims to deep understanding of the three major layers and the
-boundary object between them:
+boundary objects between them:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
+\tightlist
 \item
   Urban space in the lens of material rarefaction and urban
   manufacturing opportunity.
 \item
-  Design for open source appropriate technologies as technological
-  baseline, and
+  Design for technodiversity baseline based oon open source appropriate
+  technologies, and
 \item
   Pluralism (e)valuation of socio-technical system alternative to mass
   production in frame of a urban sustainability transition.
-
-  The ambition of this project is to open up the possibilities of a new
-  field of socio-technical design of distributed and circular urban
-  production systems based to the scientific community.
 \end{enumerate}
 
-\hypertarget{manufacturing-and-an-urban-priority-for-relience-and-agility.-to-develop.}{%
+\hypertarget{manufacturing-and-an-urban-priority-for-resilience-and-agility.}{%
 \paragraph{\texorpdfstring{\emph{Manufacturing and an urban priority for
-relience and agility}. To
-develop\ldots.}{Manufacturing and an urban priority for relience and agility. To develop\ldots.}}\label{manufacturing-and-an-urban-priority-for-relience-and-agility.-to-develop.}}
+resilience and
+agility}.}{Manufacturing and an urban priority for resilience and agility.}}\label{manufacturing-and-an-urban-priority-for-resilience-and-agility.}}
 
-\hypertarget{the-open-source-appropriatte-technology-as-alternative-has-just-started.}{%
+The significance and main challengue of sustainable urban production
+lies in the bridging of disciplinary boundary of urban and manufacturing
+sytems fields\textsuperscript{\protect\hyperlink{ref-Tsui2020}{28}} One
+major drawback is the lakck of holistic and shaerred framework to
+consdier. There is an opportunity to create a City-Factory-Product nexus
+understanding that aims to be adaptable, relient and considering the
+carrying capacity of the ecosystem.
+
+\hypertarget{the-open-source-appropriatte-technology-osat-as-alternative-has-just-started.}{%
 \paragraph{\texorpdfstring{\emph{The open-source appropriatte technology
-as alternative has just
-started}.}{The open-source appropriatte technology as alternative has just started.}}\label{the-open-source-appropriatte-technology-as-alternative-has-just-started.}}
+(OSAT) as alternative has just
+started}.}{The open-source appropriatte technology (OSAT) as alternative has just started.}}\label{the-open-source-appropriatte-technology-osat-as-alternative-has-just-started.}}
 
-In this project, the technological choices and applications that are
-small-scale, economically affordable, decentralised, energy-efficient,
-environmentally sound and easily utilized by local communities to meet
-their needs is fundamental{[}@{]}. Therefore, the trend in appropriate
-technologies is towards relatively simple and non-complex technologies,
-to complete the technological mix to be capable of plastic recycling
-from the identification of material, cleaning, sorting. The development
-of open hardware scietnific are considered as an excellent choice to
-reduce the cost {[}@{]}. The creation of a technical blueprint is there
-is no a database that include is regarded as the front of A complete
-technological mix aims to empower citizen in the. to To identify the
-pertinent The establishment of development of a technological open
-source maturity level focalised on the distributed recycling of the
-design of an open source appropriate technical ecosystem (OSAT).
+The OSAT relies on small-scale, economically affordable, decentralised,
+energy-efficient, environmentally sound and easily utilized by local
+communities to meet their needs {[}@{]}. This approach have been
+valuable for scientific equipement to reduce the cost with equal of
+quality {[}@{]}, and implying the national . Therefore, this design
+strategy to complete the technodiversity is a breakthrough to possible
+foster the valorization of material loops inside urban settlements
+fostering the creation of closed-loop supply chains. The establishment
+of development of a technological open source maturity level focalised
+on the distributed recycling of the design of an open source appropriate
+technical ecosystem (OSAT) is part of the technical blueprint.
 
 \hypertarget{systemic-design-thinking-to-identify-major-feedbacks-in-the-strategic-the-tactical-and-the-operational-decisional-levels.}{%
 \paragraph{\texorpdfstring{\emph{Systemic design thinking to identify
@@ -680,26 +685,30 @@ account is relevant at the moment to put in place industrial systems.
 industrial micro-values chains that integrate ecosystem
 characteristics.}}{Pluralism valuation for emerging industrial micro-values chains that integrate ecosystem characteristics.}}\label{pluralism-valuation-for-emerging-industrial-micro-values-chains-that-integrate-ecosystem-characteristics.}}
 
-It is urgent to expand the boundaries for engineering design from the
-lowest molecular level to the process level, and from individual process
-to the higher levels of value chains, ecosystems and the
-planet\textsuperscript{\protect\hyperlink{ref-Martinez-Hernandez2017}{28}}.
+The integration of ecological aspects in the decision-making seems not
+evident given the complexity to define the boundaries and interactions
+of industrial and ecological systems. However, It is urgent to expand
+the boundaries for engineering design from the lowest molecular level to
+the process level, and from individual process to the higher levels of
+value chains, ecosystems and the
+planet\textsuperscript{\protect\hyperlink{ref-Martinez-Hernandez2017}{29}}.
 We need to integrate ecological carrying capacity since the fuzzy front
-end phase of an industrial systems. However, the integration of
-ecological aspects in the decision-making seems not evident given the
-complexity to define the boundaries and interactions of industrial and
-ecological systems.
+end phase of an industrial systems.
+
+The ambition of this project is to open up the possibilities of a new
+field of socio-technical design of distributed and circular urban
+production systems to the scientific community.
 
 \hypertarget{a-challenging-task-for-a-systemic-blueprint}{%
 \subsubsection{A challenging task for a systemic
 blueprint}\label{a-challenging-task-for-a-systemic-blueprint}}
 
 The major gap that currently prevents from exploring the potential of
-alternative distributed manufacturing relies on a knowledge gap in terms
-of the maturity in the connection between the unit-facility-urban levels
-including the respective boundaries objects that needs to be considered
-between the layers. From a design for
-sustainability\textsuperscript{\protect\hyperlink{ref-Ceschin2016}{29},\protect\hyperlink{ref-SousaRocha2019}{30}}
+alternative distributed and circular manufacturing relies on a knowledge
+gap in terms of the maturity in the connection between the
+unit-facility-urban levels including the respective boundaries objects
+that needs to be considered between the layers. From a design for
+sustainability\textsuperscript{\protect\hyperlink{ref-Ceschin2016}{30},\protect\hyperlink{ref-SousaRocha2019}{31}}
 perspective, this implies the aid-decision tools to help makers,
 practitioners and decision-makers in the implementation phase
 considering the technosphere (molecule, material, process unit) but also
@@ -708,93 +717,160 @@ aim to make linkage of the micro-meso-macro levels of the technical,
 system and valuation layers embed in a urban spatio-temporal context
 (See Figure network)
 
+Rethinking the design of efficient and effective production system under
+the perspective of small and modular machines in combination with the
+means provided by rapidly increasing digitalization can support the
+development of sustainable and competitive urban production systems.
+
+Urban production systems can be developed in a way that is sustainable
+and competitive by rethinking the design of efficient and effective
+production systems from the perspective of tiny and modular machines in
+conjunction with the tools afforded by rapidly rising OSAT.
+
 \hypertarget{the-methodology}{%
 \subsection{3. The Methodology}\label{the-methodology}}
 
 SDRAM implement a methodology made of four working packages (WP), as
-illustrated in Fig. XXX..
+illustrated in Fig. \ref{fig:WPs}.
 
-The aim of WP1 is to set the literature baseline for an integrative and
-critical analysis of the urban production systems integrating three
-essential issues: sustainability, resiliency, and agility into a
-circular economy praxis. This working package gives the insights for the
-WP2, and WP3, which are key of the project. The WP2 seeks to consolidate
-systematize a design for OSAT, establishing a theoretical maturity level
-index that could foster the consolidatation of the OSAT in SME's. The
-WP3 aims to propose a urban closed-loop system network integrating
-integrates Finally, WP4 is dedicated to the experimentaiton of and
-anlaysis of the several demostrators of the urban circular manufacturing
-taking into case study the implementation of the Green Fablab Project at
-Nancy-Fr. Workpackages are synthetically detailed hereinafter.
+\begin{wrapfigure}{r}[0pt]{0.35\textwidth}
+\centering
+    \includegraphics[width=\linewidth]{Figures/WPs.pdf}
+    \caption{Methodology}
+    \label{fig:WPs}
+\end{wrapfigure}
 
-\hypertarget{wp-1}{%
-\subsubsection{WP 1:}\label{wp-1}}
+The aim of WP1 is to set a literature baseline for an integrative and
+critical analysis of urban territory in the frame of micro-value chains
+for local valorization loops. This working package gives the insights
+for the WP2, and WP3, which are key of the project. The WP2 seeks to
+consolidate systematize a design for OSAT establishing an analsys
+theoretical maturity level index that could foster the consolidatation
+of the OSAT and also a system maturity level. The main goal is to
+establish a complete OSAT ecosystems to valorize the material niches
+identified in WP1.\\
+The WP3 aims to identify a set of (e)valuation framework for an urban
+closed-loop system network integrating integrating three essential
+issues: sustainability, resiliency, and agility into a circular economy
+praxis. Finally, WP4 is dedicated to the experimentation and analaysis
+of the several products case studies of the urban circular manufacturing
+taking into at case studies the implementation of the Green Fablab
+Project at the third place of OK3 at Nancy-France initially. The object
+is to replicate this analysis in other territories such Chile, in
+collaboration with Prof.~Pavlo Santander, and in Canada with
+collaboration of Joshua Pearce. Work packages are synthetically detailed
+hereinafter.
 
-The achievement to SDRAM target relies the urban spatial characteristics
-as an entry point of the design of the socio-technical system possible
-identify two major output. (1.1) a predictive cartography based tool
-with possible secondary materials niches at the urban level. (2.2)
+\hypertarget{wp-1-theoretical-baseline-on-urban-value-chains}{%
+\subsubsection{WP 1: Theoretical baseline on urban value
+chains}\label{wp-1-theoretical-baseline-on-urban-value-chains}}
+
+WP1 aims at developing a integral methodology to diagnose, quantify and
+evaluate the potential urban value chains for local recycling loops on a
+territory. The achievement to SDRAM target relies the urban spatial
+analysis and stakeholders characteristics as an entry point of the
+design of the socio-technical system possible identify two major
+outputs:
+
+(1.1) the first output is a territory diagnosis seeks to capture: (a)
+stakeholder characterization (e.g.~sorting centres, recycling centres,
+Schools), (b) evaluation of the existing valorization loop chains
+including technical, economic and environmental to understand the gap
+where the ideal urban value chain could be positioned in the future. and
+(c) identification of the priorities in terms of ecosystems services of
+the territory at the urban planning level. (1.2) the second task is the
+definition of quantify the technical, economic, environmental and social
+performances of new value chains. This analysis have to take into
+consideration the flows of plastics sorted but not recovered. A first
+qualitative analysis in connection with WP2 will allow us to precisely
+understand why these plastics are excluded from the recovery loops
+already established.
+
+(1.3) A quantitative analysis (Material Flow Analysis) in order to
+assess the flow of materials available by type of plastic to supply the
+future closed loop chain, identifying a list of `suitable' secondary
+materials niches at the urban level that will connect with the further
+developed.
+
+The methodology will be built from the literature combined with a deep
+field work at least on two territories. This analysis will be carried
+out at least every year, and if possible more frequently to see if there
+is a change or seasonality in the composition of this untreated waste.
+The methodology will be tested on a third territory.
 
 \hypertarget{wp-2-maturity-level-and-technodiverstity-level-of-the-open-source-appropritte-technology}{%
 \subsubsection{WP 2: Maturity level and technodiverstity level of the
 open source appropritte
 technology}\label{wp-2-maturity-level-and-technodiverstity-level-of-the-open-source-appropritte-technology}}
 
-The main purpose of this task is to build a Tasks: (2.1) definition of a
-Scientific literature and critical analysis on advantages and barriers
-of the implications of the open-source appropritte technologies for
-recycling.
+The WP2 will be focused on the unit and facility level to better
+understand the how OSAT can be implemented in urban factory systems. The
+main purpose of this task is to build a help descision tool that enables
+designers to Tasks: (2.1) definition of a scientific literature and
+critical analysis on advantages and barriers of the implications of the
+open-source appropriatte technologies with particular focus on waste
+recycling. (2.1) Identify a system integration level that enable the
+constitution of closed-loop supplying chains.
 
-\hypertarget{wp-3-systemic-analysisi-in-function-of-the-local-territory}{%
-\subsubsection{WP 3: Systemic analysisi in function of the local
-territory}\label{wp-3-systemic-analysisi-in-function-of-the-local-territory}}
-
-\begin{itemize}
-\tightlist
-\item
-  Development of methdology to identify potential urban disposal sites
-  connecting
-\item
-  ANalyse the political, method
-\end{itemize}
-
-it is stated to analys socio-technical sytems beyond the economics
-{[}@{]}, to include new form of pluralims valuation to include the
-ecological interactions{[}@{]}.
-
-\hypertarget{wp-4-pluralism-evaluation-of-the-new-alternative-manufacturing-systems}{%
-\subsubsection{WP 4: Pluralism (e)valuation of the new alternative
+\hypertarget{wp-3-pluralism-evaluation-of-the-new-alternative-manufacturing-systems}{%
+\subsubsection{WP 3: Pluralism (e)valuation of the new alternative
 manufacturing
-systems}\label{wp-4-pluralism-evaluation-of-the-new-alternative-manufacturing-systems}}
-
-WP4 is devoted to the implementation and experiementaiton of the
-dsitributed net
+systems}\label{wp-3-pluralism-evaluation-of-the-new-alternative-manufacturing-systems}}
 
 To pass from ecodesign to a for design for sustainability, ten different
 models at operational, tactical, and strategical levels have been
-identified\textsuperscript{\protect\hyperlink{ref-SousaRocha2019}{30}}.
+identified\textsuperscript{\protect\hyperlink{ref-SousaRocha2019}{31}}.
 One strategical point in sustainability relies on the economic valuation
 of ecosystem goods and services framework. This approach gives an
 important framework highlighting their importance for society and human
 welfare. However, there is a need to explicitly account for their
 contribution when designing and developing products and
-services\textsuperscript{\protect\hyperlink{ref-Diwekar2021}{31}}.
+services\textsuperscript{\protect\hyperlink{ref-Diwekar2021}{32}}.
 
-The WP4 aims to consolidate start a longitudinal study of different
-initiatives of to give a to possible establish a major understanding of
-the implementation
+The WP4 aims to consolidate the starting point for a longitudinal study
+of different initiatives of to give a to possible establish a major
+understanding of the implementation
 
-(4.1) Prospective recomendation through the participation of
+(4.1) Prospective recommendation through the participation of
+
+\hypertarget{wp-4-systemic-analysis-in-function-of-the-local-territory}{%
+\subsubsection{WP 4: Systemic analysis in function of the local
+territory}\label{wp-4-systemic-analysis-in-function-of-the-local-territory}}
+
+WP4 is devoted to the iteration and evaluation of the urban production
+networks to fully describe and characterize the new value chain on the
+territory to include new form of pluralims valuation and ecological
+interactions{[}@{]}. This model will allow us to reveal and better
+understand under which conditions the new value chain could be viable
+from a technical maturity, economic viability and environmental respect
+of the ecosystem services. (4.1) Firstly, the main aim is to reveal the
+components and the structure of the urban circular networks to possible
+establish an integral aid-desicion tool combining Material Flow Analysis
+{[}22{]}, System Dynamics {[}21,22{]} and Circularity Indicators
+{[}39{]}.
+
+(4.2) The establishment of scenarios and sensibility analsys will be
+docuomented in complement with a comparative and contextualized Life
+Cycle Assessment (LCA) of the new secondary AM material compared to
+actual materials. This LCA will of course include all the specificities
+of the territory (distances, technologies of the sorting and recycling
+centers, origin of the recycled material, and so on). If possible, we
+will complement the environmental LCA with a social LCA.
 
 \hypertarget{conceptueal-risk-and-fesability-assessment}{%
 \subsection{3. Conceptueal risk and fesability
 assessment}\label{conceptueal-risk-and-fesability-assessment}}
 
-SDRAM is a high operation and conceptual-risk project mainly because as
-a soio evaluation of the pactful
+SDRAM is a high operation and conceptual-risk project mainly because the
+integration of of multiples disciplines need to establish a boudary
+object to have a coherent framework. Such as risk is relatted t as a
+soio evaluation of the pactful
 
 \hypertarget{an-impact-project}{%
 \subsection{4. An Impact project}\label{an-impact-project}}
+
+Main scientific impacts: (1) the breakthrough understating of the
+fundamental relationship scientific
 
 \hypertarget{resources-and-budget}{%
 \subsection{5. Resources and budget}\label{resources-and-budget}}
@@ -802,11 +878,18 @@ a soio evaluation of the pactful
 \hypertarget{the-research-team}{%
 \subsubsection{The research team}\label{the-research-team}}
 
-The budget requied for the development of SDRAM is XXX €. The most
+\begin{wrapfigure}{r}[0pt]{0.6\textwidth}
+\centering
+    \includegraphics[width=0.9\linewidth]{Gantt/Gantt-B1.pdf}
+    \caption{Gantt diagram and task allocation}
+    \label{fig:gantt-b1}
+\end{wrapfigure}
+
+The budget required for the development of SDRAM is XXX €. The most
 significant cost is the personnel cost (XXXX € - XX \%). Minor cost
 cover the purchase of open hardware equipement (XXXX € - XX \%), travels
-for dissemination of results (XXXX € - XX \%), Open acces fees for at
-least 8 publications (XXXX € - XX \%).
+for dissemination of results (XXXX € - XX \%), Open access fees for at
+least 8 publications (XXXX € - XX \%). \%
 
 \newpage
 
@@ -1009,29 +1092,36 @@ options for secondary plastics may restrict their circularity}.
 manifesto: {Understanding} the social process of resources becoming
 resources}. \emph{Research Policy} 2021; 50: 104297.}
 
-\leavevmode\vadjust pre{\hypertarget{ref-Martinez-Hernandez2017}{}}%
+\leavevmode\vadjust pre{\hypertarget{ref-Tsui2020}{}}%
 \CSLLeftMargin{28. }%
+\CSLRightInline{Tsui T, Peck D, Geldermans B, et al.
+\href{https://doi.org/10.3390/su13010023}{The role of urban
+manufacturing for a circular economy in cities}. \emph{Sustainability
+(Switzerland)} 2021; 13: 1--22.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Martinez-Hernandez2017}{}}%
+\CSLLeftMargin{29. }%
 \CSLRightInline{Martinez-Hernandez E.
 \href{https://doi.org/10.1016/j.coche.2017.05.005}{Trends in sustainable
 process design---from molecular to global scales}. \emph{Current Opinion
 in Chemical Engineering} 2017; 17: 35--41.}
 
 \leavevmode\vadjust pre{\hypertarget{ref-Ceschin2016}{}}%
-\CSLLeftMargin{29. }%
+\CSLLeftMargin{30. }%
 \CSLRightInline{Ceschin F, Gaziulusoy I.
 \href{https://doi.org/10.1016/j.destud.2016.09.002}{Evolution of design
 for sustainability: {From} product design to design for system
 innovations and transitions}. \emph{Design Studies} 2016; 47: 118--163.}
 
 \leavevmode\vadjust pre{\hypertarget{ref-SousaRocha2019}{}}%
-\CSLLeftMargin{30. }%
+\CSLLeftMargin{31. }%
 \CSLRightInline{Rocha CS, Antunes P, Partidário P.
 \href{https://doi.org/10.1016/j.jclepro.2019.06.108}{Design for
 sustainability models: {A} multiperspective review}. \emph{Journal of
 Cleaner Production} 2019; 234: 1428--1445.}
 
 \leavevmode\vadjust pre{\hypertarget{ref-Diwekar2021}{}}%
-\CSLLeftMargin{31. }%
+\CSLLeftMargin{32. }%
 \CSLRightInline{Diwekar U, Amekudzi-Kennedy A, Bakshi B, et al.
 \href{https://doi.org/10.1016/j.resconrec.2020.105140}{A perspective on
 the role of uncertainty in sustainability science and engineering}.

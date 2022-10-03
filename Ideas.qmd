@@ -90,3 +90,25 @@ From an energy and environmental perspective, the scientific literature [@Arena2
 However, transitioning to sustainable plastics in the manufacturing of plastic products, parts, and packaging is influenced by the complex interconnections between polymer producers - petrochemical companies- [10], converters [11], brand owners or manufacturers [12], retailers and consumers [13], and recycling operators [14], as well as the influences of policymakers in wider economic and societal changes [11].
 Economic, social, political and technological barriers must be overcome for sustainable plastic management [9]. 
 
+
+
+
+%------------------------------------------
+
+\begin{wraptable}[10]{r}[0pt]{0.8\textwidth}
+\extrarowsep =0mm
+\small
+\begin{tabu} to 0.9\linewidth {X[5,l] | *{10}{c} }
+\toprule  
+ \textbf{Activity} & \textbf{S1} & \textbf{S2} & \textbf{S3} & \textbf{S4} & \textbf{S5} &
+                    \textbf{S6} & \textbf{S7} & \textbf{S8} & \textbf{S9} & \textbf{S10}\\
+
+\midrule
+WP1: Theoretical baseline on urban  & & & & & & & & & & \\
+
+\bottomrule
+\end{tabu}
+\caption{A wrapped table going nicely inside the text.}\label{wrap-tab:1}
+\end{wraptable} 
+
+%------------------------------------------
