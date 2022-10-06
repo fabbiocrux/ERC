@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+| ID  | Main challengues                                                                    | Feasibility |
+|------|---------------------------------|---------------------------------|
+| 1   | Theoretical baseline on urban value chains                                          |             |
+| 2   | Maturity level and technodiverstity level of the open source appropritte technology |             |
+| 3   | Pluralism (e)valuation of the distributed recycling systems                         |             |
+| 4   |                                                                                     |             |
+
+: Feasible challengues in the methodology

@@ -9,8 +9,14 @@ bibliography: library.bib
 csl: sage-vancouver.csl
 subparagraph: yes
 ---
-## INEDIT
+<!-- Claiming sustainability -->
+@Bakshi2019a
+Furthermore, environmental harm occurs when the activities exceed nature’s capacity to absorb emissions and mitigate their impact or to provide resources without depletion of the stocks. 
+This understanding points toward six necessary but not suficient requirements that need to be satisfied before claiming environmental sustainability (6). Methods need to account for shifting of impacts in four spheres: space, time, across disciplines, and between flows. 
+In addition to these four requirements, methods also need to account for the demand of ecosystem services created by emissions and resource use, and the capacity of relevant ecosystems to supply these demanded goods and services.
 
+
+## INEDIT
 The Do-It-Yourself (DIY) movement promoted this kind of flexible and agile fabrication dedicated to individual makers mainly for sustainability purpose. The DIY movement is still alive within innovation spaces like FabLabs that characterize makers’ physical spaces or workshops. Alongside the DIY movement, the social manufacturing concept has emerged as an open, hence, more democratic way of manufacturing by the fact that the design process is able to integrate individuals (or group of individuals) to contribute. It is defined as a novel manufacturing mode, in which the consumers are involved fully into the production process by the internet (Shang et al. 2013). Consumers can manage distributed socialized manufacturing resources and activities through online platforms to facilitate personalized real-time and socialized production (Mohajeri et al. 2014; Jiang et al. 2016). Thus, it engages different skills in the production process leading to new value creation supported by the “Do-It-Together” (DIT) form of participatory design and collaborative production strategy. The means of social manufacturing enable the integration of individuals/customer in all the processes of physical products manufacturing, from ideation to production. These radical means make DIT more suitable to small-scale production at local sites. Indeed, it offers new business opportunities particularly for Small and Medium-sized Enterprises (SMEs) that have more difficulty to fulfill the ever-changing customer demand.
 
 
