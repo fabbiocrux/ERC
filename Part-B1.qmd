@@ -79,7 +79,8 @@ library(tidyverse)
 
 The aim of Systemic Distributed Recycling for Additive Manufacturing (SDRAM) is to establish a blueprint methodology for the implementation of micro-value chains of distributed recycling at a urban territorial level.
 We seek to the achievement of a three-level target: 
-1) Undertand the establishment of a free-open source technical ecosystem that can be printed, 2) to establish a set indicators to possible help decision-makers and in the local implementation of these initiatives in Europe/(America?), 
+1) Understand the establishment of a free-open source technical ecosystem that can be printed, 
+2) to establish a set indicators to possible help decision-makers and in the local implementation of these initiatives in Europe/(America?), 
 3) .....
 :::
 
