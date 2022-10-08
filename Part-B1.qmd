@@ -182,9 +182,9 @@ It creates products with a focus on the local market and allows customer involve
 ### Distributed recycling for additive manufacturing: a promising inclusion
 <!-- My major goal -->
 Since 2014, I have been working on the validation of the open-source 3D printing, filament-[@CruzSanchez2014] and pellet-based[@Arthur2020], as a robust manufacturing system, but also as a potential enabler of the mechanical recycling [@Cruz2015;@CruzSanchez2017; @lopez2022] of plastic waste feedstock.
-Likewise, I have been working on the design of the pertinent closed-loop supply chain [@Pavlo2018; @Santander2020], considering some of the sustainability indicators [@Santander2022] needed in the based on the literature.
+Likewise, I have been working on the design of the pertinent closed-loop supply chain [@Pavlo2018; @Santander2020], considering the  applicable sustainability indicators [@Santander2022] based on the scientific literature.
    <!-- Promise -->
-In a recent paper[@CruzSanchez2020], I could highthligh a great interest by the scientific community of thi topic which is called distributed recycling for additive manufacturing (DRAM).
+In a recent paper[@CruzSanchez2020], I could highthligh a great interest by the scientific community of this topic which is called *distributed recycling for additive manufacturing (DRAM)*.
 DRAM (See @fig-DRAM) is a breakthrough promise in the constitution of a micro-circular industry units to validate the technical feasibility, and several technological pathways are maturing to allow individuals to recycle waste plastic directly by 3D-printing it into valuable products.
 
 ![Distributed recycling via additive manufacturing. Source](Figures/SDRAM-00.png){#fig-DRAM fig.pos='h' width=90%}

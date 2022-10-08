@@ -9,6 +9,113 @@ bibliography: library.bib
 csl: sage-vancouver.csl
 subparagraph: yes
 ---
+<!-- in a context of ‘Spaceship Earth’, as an apt metaphor to chart the boundaries for a safe planet [@sterner2019]. -->
+
+<!-- Reprap -->
+With the expiration of Fused Deposition Modelling (FDM)  patents @Crump1988 in the mid-2000s, Adrian Bowyer envisioned the concept of  self-replicating machines, capable of manufacturing their own parts by themselves, and so simple and easy that anyone would be able to build them [ @Bailard2007; @Jones2011]. 
+This was the start of  the *RepRap* project (or **Rep**licating **Rap**id-prototyper).
+RepRap is a low-cost desktop rapid prototyper which manufactures approximately 57\% of its own mechanical components (excluding fasteners, bolts and nuts). 
+This project has been developed using an Open Design approach in which detailed information on the technical design and operations of the device is publicly available on the internet. In the literature, RepRaps have been proved to be useful tools in fields such as transport [@Birtchnell2013a],  education [@Science], engineering [@Kostakis2013; @Bailard2007], tissue engineering @DeCiurana2013, chemical reaction wire,  customising scientific equipment [@Zhang2013; @Pearce2012a; @Ter2014], electronic sensors [@Leigh2012a], wire embedding [@Bayless2010] and appropriate technology related for sustainable development [@Pearce2010].   
+
+Characteristics of the RepRap project, such as its open source nature and its customisation and self-replication capability,  open up the possibility for exponential growth  for both products and 3D printer systems. The RepRap project has been an object of social experimentation, creating numerous enthusiasts and communities interested in supporting various RepRap models. 
+Different parallel open source systems have emerged, such as FabAtHome 3D printer [@Malone2007], the CupCake CNC and Thing-O-Matic 3D printers by MakerBot Inc [@MakerBot] and others. 
+The RepRap website invites  machine developers to register their project in a database in order to collect  the total of different prototypes and projects. 
+According to this database, there are approximately 500 models [@Re2014].  This exponential growth makes it essential to evaluate the capabilities of machines in order to characterize and differentiate them. In fact, attention has been drawn to the relevance of logical evaluation tools for individuals to allow a fair comparison of  the performance of a given unit to another through the use of a benchmarking process [@Roberson2013; @Perez].
+
+
+
+<!-- Plastic Problems -->
+The development of polymer materials has allowed the manufacture of a wide range of low-cost, low weight, high performance products and it has become in a core part of technological and societal development [1].
+The plastic industry is almost completely dependent of fossil oil and gas, using about 4% of worldwide oil production which it is translated in approx. 299 million metric tonnes per annum in the year 2012 [2]. 
+One of the main concerns is the environmental impact of plastic residues because the longevity in the environment is not known with certainty. 
+Most of the polymers manufactured today will persist for at least decades (if not millennia) [3].
+Recycling processes (mechanical and feedstock recycling) of plastics are methods for reducing environmental impact and resource depletion. 
+From the energy and environmental perspective in waste-management issues, it is well demonstrated the better performance of recycling scenarios with respect to landfilling or incineration options [4, 5].
+In particular, mechanical recycling which entails the production through physical means of new plastic products from plastic waste [4, 6]. 
+However, the difficulties of this process are mainly related to the degradation of recyclable mate- rials, heterogeneity of plastic wastes and the logistic related to the process [7].
+In fact, in the case of U.S. only 6.5% of the used plastics are recycled in conventional centralized recycling [8].
+In the case of Europe, only 26% equivalent to 6.6 million tonnes in 2012 of post-consumer plastic wastes were recycled [2].
+The main reasons for the low rates of recycling plastics are related to the challenges of collection and transportation because of the high volume-to-weight ratio of the polymers. There is no net economical benefit from recycling plastic materials [9].
+
+The scheme in Figure 5 shows an industrial ecology for polymers, that is, how different forms of plastic waste treatment are related to the production cycle [26].
+There are four strategies in order to recycle plastic materials [27]:
+Reuse: It refers to reuse of the plastics objects after a process of cleaning. 
+- Mechanical Recycling: The plastic is ground down and then reprocessed and compounded to produce a new component that may or not be the same as its original use [28].
+- Chemical Recycling: the polymer waste is turned back into its oil/hydrocarbon component in the cases of polyolefin’s and monomers in the case of the polyesters and polyamides, which can be used as raw materials for new polymer production and petrochemical industry, or into the pure polymers using suitable chemical solvents. [29]
+- Energy recovery: It involves complete or partial oxidation of the material, producing heat, power and/or gaseous fuels, oils and chars besides by-products that must be disposed of such as ash. [27]
+In the context of this research, we are interested in the mechanical recycling. Specifically, the recycling of Polylactic Acid (PLA) thermoplastic in order to be used in the open source additive manufacturing context. To study the recyclability of the polymeric materials, it is a well-tried practice to simulate the degradation of the material by doing multiple extrusions in order to find the durability or service life, accelerating thermal and hydrothermal ageing. These methods make it possible to assess the effects of thermal, hydrothermal and thermo-mechanical degradation [30].
+
+
+
+### A challenging task for a systemic blueprint
+
+<!-- GAp to comble objectives -->
+The major gap that currently prevents from exploring the potential of alternative distributed and circular manufacturing relies on a knowledge gap in terms of the maturity in the connection between the unit-facility-urban levels including the respective boundary objects[@Abson2014] that needs to be considered between the layers.
+<!-- Pushing fortwards the frontiers -->
+From a design for sustainability [@Ceschin2016; @SousaRocha2019] perspective, this implies the aid-decision tools to help makers, practitioners and decision-makers in the implementation phase considering the technosphere (molecule, material, process unit) but also the also to the ecosystem impact. 
+   <!-- Explaining the work -->
+Therefore as a systemic blueprint, I aim to make linkage of the micro-meso-macro levels of the technical, system and valuation layers embeeded in a urban spatio-temporal context (See Figure network)
+
+![Grafic a faire baseee sur celui-la Source XX](Figures/Levels.jpeg){#fig-DRAM fig.pos='h' width=20%}
+
+Rethinking the design of efficient and effective production system under the perspective of small and modular machines in combination with the means provided by rapidly increasing digitalization can support the development of sustainable and competitive urban production systems.
+Urban production systems can be developed in a way that is sustainable and competitive by rethinking the design of efficient and effective production systems from the perspective of tiny and modular machines in conjunction with the tools afforded by rapidly rising OSAT.
+
+
+
+
+
+<!-- Especifiying the problem -->
+There is a urgent necessity to better understand how to design, orchestrate [@ritala2022] and evaluate the socio-technical circular demonstrators at urban levels 
+
+<!-- Axis -->
+By exploring the case of Green Fablab At Octroi Nancy, 
+
+<!-- Main objectives -->
+
+
+   <!-- Unpacking the problem objectives -->
+To do so, the SDRAM project aims to deep understanding of the three major layers and the boundary objects between them:
+
+1. How to understand the  design a production/recycling considering the specifities or the urban space in the lens of the urban manufacturing opportunity and material rarefaction.
+
+2. 
+
+3. What are the main principles, criteria and pertinent indicators (e)valuation of socio-technical alternatives to  mass production in a urban sustainability transition? 
+
+<!-- Gaps in the literature -->
+#### *Manufacturing and an urban priority for resilience and agility*. 
+
+The significance and main challengue of sustainable urban production lies in the bridging of disciplinary boundary of urban and manufacturing systems fields [@juraschek2022, @Tsui2020].
+One major drawback is the lack of holistic and shared framework to connect the urban and manufacturing development.
+There is an opportunity to create a City-Factory-Product nexus [@herrmann2019; @williams2019] understanding that aims to be adaptable, resilient[@Shabbir2021; @@mubarik2021] and considering the carrying capacity of the urban ecosystem. 
+
+
+#### *The open-source appropriate technology (OSAT) as alternative*.
+
+   <!-- OSAT -->
+The OSAT relies on small-scale, economically affordable, decentralised, energy-efficient, environmentally sound and easily utilized by local communities to meet their needs [@Pearce2012b]. 
+This approach have been valuable for scientific equipement to reduce the cost with equal of quality [@Pearce2014k;@Pearce2016], and having implication in national level [@Heikkinen2020a; @pearce2022a]. 
+Therefore, a OSAT technodiversity is a breakthrough  to possible open up the valorization of material loops inside urban settlements fostering the creation of urban closed-loop supply chains.
+The establishment of development of a technological open source maturity level focalised on the distributed recycling is part of the technical blueprint. 
+
+
+#### *Pluralistic (e)valuation for emerging industrial micro-values chains that integrate ecosystem characteristics.*
+
+<!-- Urban and Industrial -->
+Reconciling urban development and industrial development is not an easy task (wicked problem). 
+Thus, the type of information that decision-makers take into account is relevant at the moment to put in place industrial systems.
+From systemic design thinking and ecological economics fileds[@kish2021@; @economics2021], it is needed to new forms of (e)valuation beyond the economics [@gunton2022] to identify major feedbacks in the strategic, the tactical and the operational decisional levels.
+The integration of ecological aspects[@kennedy2022] in the decision-making seems not evident given the complexity to define the boundaries and interactions of industrial and ecological systems.
+  <!-- Expand boundaries of Engineering -->
+However, it is urgent to expand the boundaries for engineering design from the lowest molecular- / process-level,  to the higher levels of value chains, ecosystems and the planet [@Martinez-Hernandez2017; @kurtz2021].
+We need to integrate ecological carrying capacity since the fuzzy front end phase of an industrial systems. 
+
+   <!-- Ambition -->
+The ambition of this project is to open up the possibilities of a new field of socio-technical design of distributed and circular urban production systems to the scientific community.
+
+
+
 <!-- Claiming sustainability -->
 @Bakshi2019a
 Furthermore, environmental harm occurs when the activities exceed nature’s capacity to absorb emissions and mitigate their impact or to provide resources without depletion of the stocks. 
@@ -17,7 +124,10 @@ In addition to these four requirements, methods also need to account for the dem
 
 
 ## INEDIT
-The Do-It-Yourself (DIY) movement promoted this kind of flexible and agile fabrication dedicated to individual makers mainly for sustainability purpose. The DIY movement is still alive within innovation spaces like FabLabs that characterize makers’ physical spaces or workshops. Alongside the DIY movement, the social manufacturing concept has emerged as an open, hence, more democratic way of manufacturing by the fact that the design process is able to integrate individuals (or group of individuals) to contribute. It is defined as a novel manufacturing mode, in which the consumers are involved fully into the production process by the internet (Shang et al. 2013). Consumers can manage distributed socialized manufacturing resources and activities through online platforms to facilitate personalized real-time and socialized production (Mohajeri et al. 2014; Jiang et al. 2016). Thus, it engages different skills in the production process leading to new value creation supported by the “Do-It-Together” (DIT) form of participatory design and collaborative production strategy. The means of social manufacturing enable the integration of individuals/customer in all the processes of physical products manufacturing, from ideation to production. These radical means make DIT more suitable to small-scale production at local sites. Indeed, it offers new business opportunities particularly for Small and Medium-sized Enterprises (SMEs) that have more difficulty to fulfill the ever-changing customer demand.
+The Do-It-Yourself (DIY) movement promoted this kind of flexible and agile fabrication dedicated to individual makers mainly for sustainability purpose.
+The DIY movement is still alive within innovation spaces like FabLabs that characterize makers’ physical spaces or workshops.
+Alongside the DIY movement, the social manufacturing concept has emerged as an open, hence, more democratic way of manufacturing by the fact that the design process is able to integrate individuals (or group of individuals) to contribute. It is defined as a novel manufacturing mode, in which the consumers are involved fully into the production process by the internet (Shang et al. 2013). Consumers can manage distributed socialized manufacturing resources and activities through online platforms to facilitate personalized real-time and socialized production (Mohajeri et al. 2014; Jiang et al. 2016). 
+Thus, it engages different skills in the production process leading to new value creation supported by the “Do-It-Together” (DIT) form of participatory design and collaborative production strategy. The means of social manufacturing enable the integration of individuals/customer in all the processes of physical products manufacturing, from ideation to production. These radical means make DIT more suitable to small-scale production at local sites. Indeed, it offers new business opportunities particularly for Small and Medium-sized Enterprises (SMEs) that have more difficulty to fulfill the ever-changing customer demand.
 
 
 ### Plastics and the Antropocene: a change is needed
@@ -27,8 +137,7 @@ Plastic waste contamination is one of the relevant stratigraphic indicator of wh
 The anthropocene frames the humans not only as biological but as geological force acknowledging the new status of humanity given the different markups in the ecosystems that are impacting the stability of the earth system.
    <!-- Consequence of  -->
 The current globalized manufacturing activities have played a major role not only as motor for the economic development, but also the transgression of the planetary boundaries [@ONeill2018].
-   <!-- Features of antropocene -->
-For instance, the plastic production increased at compound annual growth rate of 8.4%, passing from  $2Mt$ in 1950 to $368Mt$ in 2019, but about 9% have been recycled  while 79% was accumulated in landfills or the natural environment [@Geyer2017]. 
+
    <!-- Major plastic problematic -->
 Soil and marine plastic pollution shows ecological, biogeochemical and physical thresholds and they are becoming a key component of the planetary boundary threat associated with chemical pollutants.
    <!-- European Union Perspective  -->
@@ -43,8 +152,6 @@ Indeed, the rebound effect of the global mass production paradigm demands to ret
 
     <u>underscored text </u>
 
-I like to highligth that historically, the plastic recycling has been oriented to centralized facilities in order to take advantage of economies of scale through the production of low-value products.
-However, it is proved to be an expensive process due to the inherent separate collection, transportation, processing and remanufacturing [@Hopewell2009; @Singh2017b].
 The consequence is for high volume and low weight polymers, the recycling of plastic is not cost-efficient in a centralized context.
 <!-- Deeping in the problem of recycling --> In fact, if we currently consider the sources of plastic waste and more specifically those from food packaging, we are faced with various limitations related to the types of material and their shaping.
 <!-- Sorting centers G1 --> More specifically, Taking the French case, the sorting centers find themselves with 3 material flows to manage.
