@@ -1,29 +1,29 @@
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Challenge 1: Urban systems' role in the deployment of the circularity.**                                                                                                |
-+===========================================================================================================================================================================+
-| In order to identify the design process of an urban circular production system, some relevant questions are the following:                                                |
-|                                                                                                                                                                           |
-| -   How to dimension production systems to be consistent with the resources and materials (first and second hand) considered as local ?                                   |
-|                                                                                                                                                                           |
-| -   How to establish the link to integrate territorial planning priorities with respect to production systems priorities within an urban circular economy context?        |
-|                                                                                                                                                                           |
-| -   What are the acceptability conditions for the deployment of urban demostrators of circularity?                                                                        |
-|                                                                                                                                                                           |
-| -   How to identify the opportunities and barriers from a social, technological, political and legal point of view for the implementation of an urban production network? |
-|                                                                                                                                                                           |
-| -   What strategies can be implemented so that socio-technical systems of circular production can be in line with urban needs and their contribution to the SDGs?         |
-|                                                                                                                                                                           |
-| -   How to establish an open source value chain in order to foster resilience and technological and energetic sobriety of the urban territory?                            |
-|                                                                                                                                                                           |
-| -   How would the implementation of urban production systems affect the functional blocks of an urban territory?                                                          |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Challenge 1: Urban systems' role in the deployment of the circularity.**                                                                                                          |
++=====================================================================================================================================================================================+
+| In order to identify the design process of an urban circular production system, some relevant questions are the following:                                                          |
+|                                                                                                                                                                                     |
+| -   How to dimension production systems to be consistent with the resources and materials (recycled plastics) (first and second hand) considered as local ?                         |
+|                                                                                                                                                                                     |
+| -   How to establish the link to integrate territorial planning priorities with respect to production systems priorities within an urban circular economy context?                  |
+|                                                                                                                                                                                     |
+| -   What are the acceptability conditions for the deployment of urban demostrators of circularity?                                                                                  |
+|                                                                                                                                                                                     |
+| -   How to identify the opportunities and barriers from a social, technological, political and legal point of view for the implementation of an urban production/recycling network? |
+|                                                                                                                                                                                     |
+| -   What strategies can be implemented so that socio-technical systems of circular production can be in line with urban needs and their contribution to the SDGs?                   |
+|                                                                                                                                                                                     |
+| -   How to establish an open source value chain in order to foster resilience and technological and energetic sobriety of the urban territory?                                      |
+|                                                                                                                                                                                     |
+| -   How would the implementation of urban production systems affect the functional blocks of an urban territory?                                                                    |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Challenge 2: Systematize the open source technodiversity as territorial asset.**                                                                                 |
 +====================================================================================================================================================================+
 | To implement an open source appropriate technology ecosystem suitable for circular urban production system, some relevant research questions are the following:    |
 |                                                                                                                                                                    |
-| -   How to design a technodiversity baseline based on open source appropriate technologies (OSAT) for distributed and circular production?                         |
+| -   How to design a technodiversity baseline based on open source appropriate technologies (OSAT) for distributed recycling?                                       |
 |                                                                                                                                                                    |
 | -   How can the design process of an appropriate open source technology be analyzed to avoid what is known as the Jevons paradox?                                  |
 |                                                                                                                                                                    |
@@ -41,9 +41,9 @@
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Challenge 3: Pluralistic (e)valuation of circular and urban production systems.**                                                                                                       |
+| **Challenge 3: Pluralistic (e)valuation of distributed recycling systems.**                                                                                                               |
 +===========================================================================================================================================================================================+
-| In order to (e)valuate in a pluralistic way the development and implementation of urban production units, some relevant questions are the following:                                      |
+| In order to (e)valuate in a pluralistic way the development and implementation of urban distributed units, some relevant questions are the following:                                     |
 |                                                                                                                                                                                           |
 | -   How to connect ecological and economic indicators within the same evaluation framework?                                                                                               |
 |                                                                                                                                                                                           |

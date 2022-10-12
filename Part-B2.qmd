@@ -92,7 +92,7 @@ In the current paradigm, mass manufacturing plastic products are often globalize
 <!-- The mass production system, requires materials as well as human and physical capital to produce goods.  -->
 The mass production system, in the lens of deep transition [@kanger2022] framework, is the fruit of a complex co-evolution of single unit productions and interconnected systems that have intensified several forms of environmental degradation without fully assuring the social foundation’s minimum standards (e.g. healthcare, energy, water etc) [@raworth2017].
 <!-- Anthropoce -->
-Thus, the humanity is not only as biological but as geological force, on what is recently considered the Anthropocene era [@steffen2018; @steffen2011]. 
+Thus, the humanity is not only as biological but as geological force, on what is recently considered as the Anthropocene era [@steffen2018; @steffen2011]. 
 This new status of humanity is given the different indicators in the natural ecosystems that are impacting the stability of the earth system.
 <!-- Problem -->
 For instance, the plastic waste contamination is one of the relevant stratigraphic indicator [@porta2021; @de-la-torre2021 ].
@@ -156,19 +156,17 @@ download.file(url = paste0(URL, 'Everest-bio/Urban-production/Herrmann2020-01.pn
 
 
 
-### Open source and digital commons for 'Design global / Manufacturing local'
-
-<!-- Additive Manufacturing -->
-The convergence of information and communication technologies (ICT) with digital fabrication capabilities of Additive Manufacturing (AM) is creating the appropriate knowledge-based social environments that enable independent production of modular hardware. 
-This synergy could be transformed into a new disruptive paradigm of means of production for modular hardware [@Kostakis2013]. 
-It provides the possibility of mass diffusion of this technology, and consequently, AM is being recognised as a revolutionary  technology that could up-end the last two centuries of approaches to design and manufacturing with profound geopolitical, economic, social, demographic, environmental and security implications [@Pearce2014d, @Birtchnell2013a, @Garrido2010, @Campbell2011, @Rifkin,@Economist2012]
+### Openess for 'Design global / Manufacturing local'
 
 <!-- Presenting distributed approach -->
-a major trend in the development of production systems seeks to establish an urban production model [@Herrmann2020; @juraschek2022] with decentralized and distributed characteristics [@priavolou2022; @cerdas2017] as an alternative of globalized manufacturing values chains.
+A major trend in the development of production systems seeks to establish an urban production model [@Herrmann2020; @juraschek2022] with decentralized and distributed characteristics [@priavolou2022; @cerdas2017] as an alternative of globalized manufacturing values chains.
    <!-- DGML -->
-Aiming at a *'design global / manufacturing local'* [@Kostakis2018] seems a proto-industrialization [@sabel1985] transition that is taking place in urban settlements that could a major impact in the next short future.
+Aiming at a *'design global / manufacturing local'* (DGML) [@Kostakis2018] seems a proto-industrialization [@sabel1985] transition that is taking place in urban settlements that could a major impact in the next short future.
+   <!-- Explaining DGML -->
+DGML is an emerging productive model that builds on the convergence of the digital commons of knowledge, software and design with local manufacturing technologies.
    <!-- FOSH and P2P -->
-The Open Source Appropriate Technology (OSAT)[@Pearce2010] (Open Source Appropriate Technology) and peer-to-peer (P2P)[@Kostakis2013] approaches have been seen potential drivers to propose an alternative globalisation manufacturing paradigm[@Heikkinen2020a].
+More precisely, the Open Source Appropriate Technology (OSAT)[@Pearce2010] and peer-to-peer (P2P)[@Kostakis2013] approaches have been seen potential drivers to propose an alternative globalisation manufacturing paradigm[@Heikkinen2020a].
+
    <!-- FOSH and P2P -->
 The open source (OS) approach has become well-established to provide improved product innovation over proprietary product development [@dibona1999; @raymond1999; @lakhani2004; @deek2007]. 
 The evidence is most mature for software development because free and open source software (FOSS) provides: 
@@ -179,12 +177,14 @@ iv) organizational innovation [@alexy2013],
 v) higher technical quality of code [@soderberg2015], vi) encourages creativity [@martinez2015] 
 and vii) perhaps most importantly, it avoids redundant work [@Ardal2016]. 
 The OS approach is now also gaining traction in free and open source hardware (FOSH) [@thompson2011; @fisher2012; @pearce2012; @pearce2013; @li2018] and appears to be roughly 15 years behind FOSS in development and adoption [@pearce2018]. 
+<!-- Drivers for open hardware -->
 One of the primary drivers, is that all forms of free and open source technology software and hardware (FOSS and FOSH) can provide a substantial cost savings [@petch2014; @pearce2015a; @pearce2015b; @wittbrodt2013].
+
 <!-- Additive manufacturing -->
-The open source additive manufacturing technology, also know as 3D printing, have played a major role in the idea of democratization of manufacturing means [@Beltagui2020]. 
+The open source additive manufacturing technology, also know as 3D printing, is playing a major role in the idea of democratization of manufacturing means [@Beltagui2020]. 
 In particular, material  extrusion based units are widely used, thanks to the simplicity of operation, the Do-It-Yourself (DIY) approach and the open-support communities. 
 <!-- Examples of distributed change -->
-Thousands of open-source products are shared by the global community from consumer goods to scientific[@Pearce2020a] and medical equipment[@Pearce2020a; @He2014]. 
+Thousands of open-source products are shared by the global community from consumer goods to scientific [@Pearce2020a] and medical equipment[@Pearce2020a; @He2014]. 
 This model has been proven to be effective for emergency manufacturing during the COVID-19 pandemic [@Pearce2020a; @tan2021].
 This is a driver communities to fabricate their own products for less than the price of purchasing them. 
 <!-- Towards Urban factory -->
@@ -197,9 +197,9 @@ It creates products with a focus on the local market and allows customer involve
 
 Today, a major societal issue rely on how to conceived socio-technical 'circular units' for manufacturing that integrates values of sobriety [@ref], resilience [@touriki2021; @VanFan2019], adaptability [@weichhart2021] and evolutive in urban settlements.
 <!-- Convivial tools -->
-The technologies that tend to lean towards sufficiency and creativity; adopt the open-source philosophy; are designed for affordability and durability; explore tacit knowledge; empower communities through access to means of production; and promote localisation of production and logistics; are defined as **convivial** [@priavolou2022a]
+The technologies that tend to lean towards sufficiency and creativity; adopt the open-source philosophy; are designed for affordability and durability; explore tacit knowledge; empower communities through access to means of production; and promote localisation of production and logistics; are defined as **convivial** [@priavolou2022a].
 <!-- And certainly, the rebound effect of plastic materials will be the case. -->
-Moreoveor, the reuse, repairing, recycling approaches will need to converge in a post-growth economy context considering the societal issues of resource scarcity and waste accumulation in the urban settlements [@kallis2018; @savini2021].
+Moreover, the reuse, repairing, recycling approaches will need to converge in a post-growth economy context considering the societal issues of resource scarcity and waste accumulation in the urban settlements [@kallis2018; @savini2021].
 Indeed, today the establishment of these socio-technical systems need to include all ecosystem externalitites and the carrying capacity of the ecosystem to claim to sustainability [ @Bakshi2018; @Bakshi2019a].
    <!-- Urban lives -->
 The trend is reinforced by the fact that by 2050, it is expected that about 70% of the world's population will live in urban settlements [@savini2021].
@@ -213,14 +213,16 @@ Urban cities will be responsible for non-negligible environmental impact [@Zheng
 Since 2014, I have been working on the validation of the open-source 3D printing, filament-[@CruzSanchez2014] and pellet-based[@Arthur2020], as a robust manufacturing system, but also as a potential enabler of the mechanical recycling [@Cruz2015;@CruzSanchez2017; @lopez2022] of plastic waste feedstock.
 Likewise, I have been working on the design of the pertinent closed-loop supply chain [@Pavlo2018; @Santander2020], considering the  applicable sustainability indicators [@Santander2022] based on the scientific literature.
    <!-- Promise -->
-In a recent paper[@CruzSanchez2020], I could highthligh a great interest by the scientific community of this topic which is called *distributed recycling for additive manufacturing (DRAM)*.
+In a recent paper [@CruzSanchez2020], I could establish *distributed recycling for additive manufacturing (DRAM)* as a theoretical model a great to possible recycling locally.
 DRAM (See @fig-DRAM) is a breakthrough promise in the constitution of a micro-circular industry units to validate the technical feasibility, and several technological pathways are maturing to allow individuals to recycle waste plastic directly by 3D-printing it into valuable products.
 
 ![Distributed recycling via additive manufacturing. Source](Figures/SDRAM-00.png){#fig-DRAM fig.pos='h' width=90%}
 
-To appreciate the ground-breaking scientific nature of this idea, let me state that the plastic production increased at compound annual growth rate of 8.4%, passing from  $2Mt$ in 1950 to $368Mt$ in 2019, but about 9% have been recycled  while 79% was accumulated in landfills or the natural environment [@Geyer2017]. 
-Historically, the plastic recycling has been oriented to centralized facilities in order to take advantage of economies of scale through the production of low-value products.
+To appreciate the ground-breaking scientific nature of this idea, let me state that historically, the plastic recycling has been oriented to centralized facilities in order to take advantage of economies of scale through the production of low-value products.
 However, it is proved to be an expensive process due to the inherent separate collection, transportation, processing and remanufacturing [@Hopewell2009; @Singh2017b].
+Plastic production increased at compound annual growth rate of 8.4%, passing from  $2Mt$ in 1950 to $368Mt$ in 2019, but the statistics proves that only 9% have been recycled  while 79% was accumulated in landfills or the natural environment [@Geyer2017]. 
+**We need other paradigm to tackle this wicked problem**.
+
 <!-- Explaining DRAM -->
 On the other hand, DRAM can starts with local plastic waste that is produced everywhere from packaging to broken products (*Recovery (I)*). 
 It is washed, dried and then ground or cut into particles using a waste plastic granulator or office shredder (*Preparation (II)*). 
@@ -232,26 +234,30 @@ For example, using a recyclebot/3D-printer combination can produce over 300 unit
    <!-- FGF -->
 Fused granular fabrication is a recent experimental approach enabling the printing process directly from pellets [@JustinoNetto2021;@netto2022], which reduces the degradation cycles of the plastic. 
 For this process, I worked in the desktop format [@Arthur2020], but it seems that this technology could further expand the boundaries of additive manufacturing and eventually recycling [@billah2021; @Reich2019;@Byard2019] for larger object [@petsiuk2022]. 
- <!-- Advantages -->
-
 <!-- OPen source approach -->
 Distributed recycling fits into the circular economy paradigm [@Zhong2018; @Garmulewicz2018; @Despeisse2016], as it eliminates most embodied energy and pollution from transportation between processing steps.
 Also, it decreases the embodied energy of filament by 90% compared to traditional centralized filament manufacturing using fossil fuels as inputs [@Kreiger2013; @Zhong2017;@Horta2017].
 <!-- Open source -->
-Additionaly, open-source investment should result in an extremely high return on investment (ROI)[@Pearce2020a]. 
+Additionally, open-source investment should result in an extremely high return on investment (ROI)[@Pearce2020a]. 
 This makes distributed recycling environmentally superior to other methods of plastic recycling systems.
 
    <!-- From logistical -->
-However, I realized that the global system maturity is ambiguous given that not all the value chain for the implementation of a community-driven of plastic recycling are matured [@CruzSanchez2020].
+However, major efforts in the scientific literature have been only concentrated in the materials and technical validation in laboratory conditions.
+**The analysis of the holistic impact that this process can have in the context of a city remains not well understood**.
+From the urban planning perspective, there are not methodological tools to (e)valuate (to see the impact but also to see the worth) of possible distributed plastic networks supported by the open source.
+Indeed, a community-driven of plastic recycling remains in the makers, Fablabs spheres where the competences and values may differe from the general public. 
+A system validation is needed to possible understant the pertinent scale that his approach can take in urban settlements.
+
+<!-- participant have profound values and technical capacity to implement. -->
+<!-- from technical aspect the system maturity is ambiguous given that not all the value chain for the implementation of a are well [@CruzSanchez2020]. -->
    <!-- Materials -->
-Major efforts in the scientific literature have been only concentrated in the materials and technical validation.  
-However, the system validation remains to be difficult to implement. 
-More important, the analysis of the holistic impact that this process can have in the context of a city remains not well understood.
+
+
    <!-- From logistical -->
-In the framework of a EUH2020 project called INEDIT[^inedit], I have been leading the implementation of the *Green Fablab* demostrator inside the third place called Octroi-Nancy Association [^ok3] since November 2021[^covid].
+In the framework of a EUH2020 project called INEDIT[^inedit], I have been leading the implementation of the **Green Fablab** demostrator inside the third place called Octroi-Nancy Association [^ok3] since November 2021[^covid].
    <!-- INEDIT  -->
 INEDIT project aims to create an ecosystem to transform the DYI practices largely documented in FabLabs/Hacker/Maker spaces into a professional approach called Do-It-Together to capitalise on the knowledge, creativity and ideas of design and engineering.
-The Green Fablab is a distributed recycling demostrator that that use living lab approach[@tyl2021; @compagnucci2020a] to experiment in real conditions with citizens, final users and large general public.
+The Green Fablab is a distributed recycling demonstrator that use living lab approach[@tyl2021; @compagnucci2020a] to experiment in real conditions with citizens, final users and large general public.
 This experiment is enframed as a design for sustainability at a socio-technical system level[@Ceschin2016].
    <!-- RRI Industry -->
 We have collected and recycling around 100kg of plastic waste for the pedagogical and architectural uses given the fact that we are connected with a creative ecosystem of designers and makers participatin in the Octroi-Nancy projet.
@@ -259,33 +265,37 @@ We have collected and recycling around 100kg of plastic waste for the pedagogica
 This hands-on experience confirms the literature that a new recycled resources industry is starting to conceived inside the cities [@wang2019b].
 This industry is seen as driver consists of a series of activities related to recycled resources -- e.g., recycling, refining, remanufacturing, etc. -- aspiring to mitigate the negative externality caused by the linear economy. 
    <!-- Circular society -->
-The sustainable development of the RRI has thus been highlighted on many countries' agendas to promote the circular society [@leipold2021; @hobson2021;@jaeger-erben2021a], as well as the goals of carbon peak and carbon neutralization.
+The signal RRI has thus been highlighted on many countries' agendas to promote the circular society [@leipold2021; @hobson2021;@jaeger-erben2021a].
    <!-- Affordability  -->
-In the case of plastic waste, the main difficulty remains to make affordable the use of new secondary material applicability by the industry [@klotz2022], but more profoundly, how these socio-technical experiments will interact with the urban planning process and policymaking to make concrete the ambition of circular economy inside the urban and regional settlements.
+In the case of plastic waste, the main difficulty remains to make affordable the use of new secondary material applicability by the industry [@klotz2022], but more profoundly, how these new socio-technical technical systems will interact with the urban planning process and policymaking to make concrete the ambition of circularity inside the urban settlements.
 
 ## 2. Ambition & objectives 
 
 <!-- Delightling the problem -->
-The material' rarefaction [@hultman2021], the need for ecological integration of manufacturing systems [@Bakshi2015; @Saladini2018; @Bakshi2019a] and for the urban resilience [@xu2021e] calls for pushing forward the boundaries of knowledge of the urban production systems to unleash a sustainability transition towards circular economy.
+The material' rarefaction [@hultman2021], the need for ecological integration of manufacturing systems [@Bakshi2015; @Saladini2018; @Bakshi2019a] and the urban resilience [@xu2021e] calls for pushing forward the boundaries of knowledge of the design of urban production systems to unleash a sustainability transition.
 <!-- Figure -->
 \begin{wrapfigure}[13]{r}[0pt]{0.45\textwidth}
 \centering
     \includegraphics[width=\linewidth]{Figures/Levels.png}
     \caption{Methodology}
-    \label{fig:WPs}
+    \label{fig:levels}
 \end{wrapfigure}
 <!-- General objective -->
-Therefore, the main objective of this project is **to establish a systemic methodological blueprint to fully understand how to design, implement and (e)valuate circular production systems at the urban territory based on the *"Design Global / Manufacturing local"* principles **.
+Therefore, the main objective of this project is **to establish a systemic methodological blueprint to fully understand how to design, implement and (e)valuate urban production systems based on the *"Design Global / Manufacturing local"* principles **.
 The deployment of circularity marks a return to a more productive design of the city, that must consider the natural and urban ecosystem services, the strengthened of the resilience capacities and taking into account the energy sobriety of european territories.
 <!-- Unpacking -->
 Thus, this project seeks two level targets:
 
-1) The scientific understanding of the design of socio-technical configurations of convivial production/recycling systems as a resilience strategy in urban settlements. 
-
-2) Holistic and pluralistic (e)valuation of the open source appropriate technologies, practices and potential innovation as assets for urban territorial development.
+1) The scientific understanding of the design of socio-technical configurations of urban production systems based on distributed plastic recycling as resilience strategy.  
+2) Holistic and pluralistic (e)valuation of the open source appropriate technologies and design as assets for urban territorial development.
 
 <!-- Presenting the unpacking layers -->
-Table XX presents an outline of the three major layers to consider in these project.
+I aims further develop the distributed recycling analysing the as illustrated in figure \ref{fig:levels}
+(1) technical layer
+(2) urban layer
+(3) Evaluation layer.
+
+Based on that, table XX presents an outline of the research question of the three major layers to consider in this project.
 
 \small
 
@@ -309,7 +319,10 @@ Table XX presents an outline of the three major layers to consider in these proj
 
 ## 3. An Impact project
 
-- **Main scientific impacts.** (1) the breakthrough understating of the implementation and evaluation  of the design of sustainability of distributed urban recycling systems
+- **Main scientific impacts.** 
+This project aims to make a  the breakthrough understating of the implementation and evaluation of the distri design of sustainability of distributed urban recycling systems.
+This opens ups the 
+
 
 
 - **Main societal impacts.** If the expected modeling are confirmed, the outcome of this pproject will allow  urban and technical desicion-makers the implementation of local recycling circuits of available plastic waste by means of small, ro  distribed recycling socio-technical units.
