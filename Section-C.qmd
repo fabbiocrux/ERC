@@ -1,0 +1,121 @@
+---
+format:
+  # html:
+  #   toc: false
+  # docx:
+  #   toc: false
+  #   number-sections: false
+  #   highlight-style: github
+  #   linkcolor: blue
+  #   urlcolor: blue
+  #   link-citations: yes
+  #   reference-doc: Template.docx
+  pdf:
+    documentclass: article
+    classoption: [onecolumn]
+    geometry: [left=2cm,top=1.5cm,right=2cm,bottom=1.5cm]
+    papersize: a4paper
+    toc: false
+    number-sections: false
+    colorlinks: true
+    fontsize: 11pt
+    linkcolor: blue
+    urlcolor: blue
+    link-citations: yes
+    include-in-header: [assets/preamble.tex]
+    #include-before-body: [assets/titlepage-B2.tex]
+    #keep-tex: true
+
+---    
+
+
+# Section b: Early achievements track-record (max. 2 pages)
+
+## Summary of the Scientific Production
+
+
+\begin{small}
+\begin{minipage}{0.50\linewidth}
+
+- 8 papers, in 9 international peer-reviewed journals:\\
+- 8 publications as first and corresponding author.
+- 13 publications without my Ph.D. supervisor.
+- 2 papers as co-first author.
+- 33 co-authors.
+
+\end{minipage}
+\quad
+\begin{minipage}{0.45\linewidth}
+
+\begin{tabu} to \linewidth {X[2,l] X[0.5,l]}
+\toprule
+\textbf{Journals} & \textbf{IF (2020)} \\
+\midrule
+\href{https://www.journals.elsevier.com/additive-manufacturing}{Additive Manufacturing} & 10.998 \\
+\href{https://www.journals.elsevier.com/resources-conservation-and-recycling}{Resources, Conservation \& Recycling} & 10.204\\
+
+\href{https://www.journals.elsevier.com/journal-of-cleaner-production}{Journal of Cleaner Production} &  9.297\\
+\href{https://www.tandfonline.com/toc/nvpp20/current}{Virtual and Physical Prototyping}
+ & 8.092\\
+
+\href{https://home.liebertpub.com/publications/3d-printing-and-additive-manufacturing/621/overview}{3D Printing and Additive Manufacturing}
+ & 5.449\\
+ 
+\href{https://www.springer.com/journal/11837}{JOM} & 2.474 \\
+\href{https://www.journals.elsevier.com/cleaner-engineering-and-technology}{Cleaner Engineering and Technology} & -- \\
+
+\bottomrule
+\end{tabu}
+\end{minipage}
+\end{small}
+
+
+## My Research Profile
+
+I am a Senior Researcher at the Equipe de Recherche sur les Processus Innovatifx --ERPI- at the Université de Lorraine - France.
+Moreover, I am Visiting Scholar at the Universidad de Santiago de Chile. 
+
+I am an advocate of the value of distributed recycling ad a major sustainability strategy, and have been active in the field since before I was awarded my PhD along with several other activities related to the subject. 
+
+
+The Green Fablab is a community-driven research hub and makerspace dedicated to interdisciplinary research on free and open-source technologies and practices. 
+Its work combines theoretical sensitivity with action research and fieldwork, primarily the implementation of local manufacturing technologies in various societal contexts.
+It serves as a base for a global network of individuals from various academic and activist backgrounds working collaboratively on a project basis.
+
+
+I have selected the following five publications since I think that they will allow me to introduce the main novelties and scientific contributions of my main researches, the multi-disciplines covered by my works, my capability to work with different research groups and the curiosity that characterizes my research profile.
+
+### Research on unit level
+
+::: {.callout-note icon=false}
+
+## 1. Cruz Sanchez, F. A., Boudaoud, H., Muller, L. & Camargo, M. Towards a standard experimental protocol for open source additive manufacturing. Virtual and Physical Prototyping 9, 151–167 (2014).
+
+**Scientific contribution.**: This publication represents the first manuscript of from my Ph.D. thesis. The major contribution to the scientific community was to prove the robustness of the open source 3D printing field positioning this artifact in the International ISO standards. It demonstrates that the open source 3D printing is a disruptive technique at very lower cost regarding the traditional manufacturing.
+I assembled the experimental 3D printer, performed the measurements, defined experimental approach to quantify the printing quality and uncertainties, and develop a theoretical accuracy index to select best manufacturing process conditions process. .
+:::
+
+
+## Research as Process level: Validation of the recycling
+::: {.callout-note icon=false}
+## 1. Cruz Sanchez, F. A., Boudaoud, H., Muller, L. & Camargo, M. Towards a standard experimental protocol for open source additive manufacturing. Virtual and Physical Prototyping 9, 151–167 (2014).
+
+**Scientific contribution.**: This publication represents the first manuscript of from my Ph.D. thesis. The major contribution to the scientific community was to prove the robutsness of the open source 3D printing field positionating this tool in the International ISO standards. It demonstrates that the open source 3D printing represents a robust manufacturing technique at very lower cost regarding the traditional manufacturing.
+I assembled the experimental 3D printer, performed the measurements, defined experimental approach to quantify the printing quality and uncertainties, and develop a theoretical accuracy index to select best manufacturing process conditions process. .
+
+:::
+
+
+Since the reception of a full-time status, for the past three years I have been devoted to academic research. My field of research is multi-faceted yet revolves around the political economy of the digital commons; technology governance; political ecology and technology; local manufacturing; blockchain- mediated organisation; and constructionist learning. Further, due to my activist background I have obtained an insider's perspective on the emerging phenomenon of commons-based peer production and consequently helped pave the way for novel research around it. This makes me particularly qualified to lead the proposed research project that will push the boundaries of this burgeoning research field.
+In a total of 42 related publications, 71% are articles in international peer-reviewed journals from which 63% are single-authored or first-authored. I favour collaborative efforts in writing and 45% of my publications I have co-authored with students, while only 7% with a supervisor. At the time of this writing (October, 12th), my Google Scholar citation count is 586 with an h-index of 14 (in 2017 alone I have received 169 citations) in an, admittedly, emerging and heterodox field of scholarship. Moreover, I referee and sit on the editorial boards of four open access journals and have had four guest editorships on (open access) special issues.
+I have published in major interdisciplinary journals such as Journal of Cleaner Production (IF: 5.715), Annual Review of Environment and Resources (6.268), Science, Technology & Human Values (IF: 2.907), Technological Forecasting and Social Change (IF: 2.625), New Media & Society (IF: 4.180), Telematics & Informatics (IF: 3.398), Futures (IF: 1.802); and co-authored several chapters for edited volumes, encyclopaedias and handbooks; as well as two co-authored monographs (one forthcoming). My work has appeared in 13 languages as well as featured in several popular international media. Five selected articles of mine plus a book, all relevant with the proposed topic, are following (*=student):
+􏰀 Kostakis, V., & Bauwens, M. (2014). Network society and future scenarios for a collaborative economy. Basingstoke: Palgrave Macmillan. Citations: 126.
+􏰀 Kostakis, V., Latoufis, K.*, Liarokapis, M., & Bauwens, M. (2017). The convergence of digital commons with local manufacturing from a degrowth perspective: Two illustrative cases. Journal of Cleaner Production. Citations: 11.
+􏰀 Kostakis, V., Roos, A.*, & Bauwens, M. (2016). Towards a political ecology of the digital economy: Socio-environmental implications of two value models. Environmental Innovation and Societal Transitions, 18, 82-100. Citations: 10.
+􏰀 Kostakis, V., Niaros, V.*, Dafermos, G., & Bauwens, M. (2015). Design global, manufacture local: Exploring the contours of an emerging productive model. Futures, 73, 126-135. Citations: 22.
+11
+This proposal version was submitted by Vasileios KOSTAKIS on 13/10/2017 20:02:54 Brussels Local Time. Issued by the Participant Portal Submission Service.
+Kostakis Part B1 COSMOLOCALISM
+􏰀 Kostakis, V., Niaros, V.*, & Giotitsas, C.* (2015). Production and governance in hackerspaces: A manifestation of commons-based peer production in the physical realm?. International Journal of Cultural Studies, 18(5), 555-573. Citations: 56.
+􏰀 Kostakis, V., & Papachristou, M.* (2013). Commons-based peer production and digital fabrication: The case of a RepRap-based, Lego-built 3D printing-milling machine. Telematics & Informatics, 31(3), 434-443. Citations: 40.
+

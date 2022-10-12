@@ -18,7 +18,7 @@ format:
     toc: false
     number-sections: false
     colorlinks: true
-    fontsize: 11pt
+    fontsize: 12pt
     linkcolor: blue
     urlcolor: blue
     link-citations: yes
@@ -76,10 +76,7 @@ library(tidyverse)
 ::: callout-note
 ## DRAM in a nutshell
 
-The main purpose of this project is to develop a breakthrough and still unexplored methodlogy to systematic 
-Practically, the 
-
-of Systemic Distributed Recycling via Additive Manufacturing (SDRAM) is to establish a blueprint methodology for the implementation of micro-value chains of distributed recycling at a urban territorial level.
+The main purpose of the Systemic Distributed Recycling via Open Hardware (SDROM) is to establish a blueprint methodology for the design, implementation and (e)valuation of micro-value chains of distributed recycling at a urban territorial level.
 We seek to the achievement of a three-level target: 
 1) Understand the establishment of a free-open source technical ecosystem that can be printed, 
 2) to establish a set indicators to possible help decision-makers and in the local implementation of these initiatives in Europe/(America?), 
@@ -89,22 +86,56 @@ We seek to the achievement of a three-level target:
 
 # Section a. State-of-the-art and objectives
 
+### **Plastics and the Antropocene: a change is needed**
 <!-- Antropocene and mass manufacturing -->
-In the current paradigm, value creation chains of industrial products are often globalized. 
-The mass production system, understood as a deep transition [@kanger2022], requires materials as well as human and physical capital to produce goods. 
-This is the fruit of a complex co-evolution of single unit productions systems, interconnected systems, and industrial modernity that have been gradually intensified various forms of environmental degradation.
-<!-- Wicked problems -->
-Plastic waste contamination [@de-la-torre2021],  climate change [@stoddard2021], biodiversity loss [@hermoso2022] are  some examples of those degradations qualified as *wicked problems* characterized by their complexity, interdependence and contextual specificity [@Zivkovic2018].
+In the current paradigm, mass manufacturing plastic products are often globalized value creation chains. 
+<!-- The mass production system, requires materials as well as human and physical capital to produce goods.  -->
+The mass production system, in the lens of deep transition [@kanger2022] framework, is the fruit of a complex co-evolution of single unit productions and interconnected systems that have intensified several forms of environmental degradation without fully assuring the social foundation’s minimum standards (e.g. healthcare, energy, water etc) [@raworth2017].
 <!-- Anthropoce -->
-These elements are majors markups of what is recently disscused as the Anthropocene era [@steffen2018; @steffen2011].
-The Anthropocene frames the humans not only as biological but as geological force acknowledging the new status of humanity given the different indicators in the natural ecosystems that are impacting the stability of the earth system.
+Thus, the humanity is not only as biological but as geological force, on what is recently considered the Anthropocene era [@steffen2018; @steffen2011]. 
+This new status of humanity is given the different indicators in the natural ecosystems that are impacting the stability of the earth system.
+<!-- Problem -->
+For instance, the plastic waste contamination is one of the relevant stratigraphic indicator [@porta2021; @de-la-torre2021 ].
+   <!-- Major plastic problematic -->
+More precisely, the Soil and marine plastic pollution shows ecological, biogeochemical and physical thresholds and they are becoming a key component of the planetary boundaries [@ONeill2018; @raworth2017; @Rockstrom2009] threat associated with chemical pollutants.
+   <!-- Major plastic problematic -->
+Then, the use and disposal of plastics is a societal problem characterized by high complexity and multifaceted feedback loops that calls for a systemic view of the entire plastics value chain from producers -petrochemical companies- [@Iles2013; @DeVargasMores2018], converters [@Paletta2019], brand owners or manufacturers [@Gong2020; @Ma2020], retailers and consumers [@Confente2020; @Friedrich2020; @Filho2021], and recycling operators [@Huysveld2019; @Pazienza2020], as well as the influences of policy-makers in wider economic and societal changes [@Paletta2019].
+   <!-- Paradox  -->
+The delay that implies to put in place an alternative productive model is the main the paradox in this issue. 
+Therefore, how to manage the huge amount of waste already present in the nature and the plastic waste generated in the short term?,
+How to rethink production, consumption systems (and even urban future cities) based on an engineering that is concordance with the bio-geological cycles?, or
+What are alternative trajectories for a socio-technical productive systems that take into account the natural capital and externalities [@zhen2021] since the fuzzy front-end design phase?.
+These major scientific questions remains open towards a sustainable transition socio-technical model.
+
+
+
+
+<!-- Anthropoce -->
+<!-- These elements are majors markups of what is recently disscused as the Anthropocene era . -->
+
+
+
+   <!-- European Union Perspective  -->
+
+
 <!-- Consequence of  Manufacturing   -->
-Thus, the globalized mass manufacturing paradigm are leading to the transgression of the planetary boundaries [@ONeill2018; @raworth2017; @Rockstrom2009].
-Therefore, an new deep transition is needed to  addressed for alternative socio-technical productive systems that take into account the natural capital and externalities[@zhen2021] of human activites' since the fuzzy front-end desing phase of the innovation process. 
+Thus, the globalized mass manufacturing paradigm are leading to the transgression of the 
+Therefore, 
 
 
+
+Various schools of thought are proposing alternative socio-technical manufacturing systems (and in some cases consumption), including the circular economy [@Murray2017], bioeconomy, frugal innovation and degrowth.
   <!-- Circular Economy blindness -->
-The entry of the circular economy concept in the policy [@EC2015], industrial [@EllenMacArthurFoundation2015] and scientific [@nobre2021; @Kirchherr2017; @Schoggl2020] arenas as an umbrella concept, but also as a contested one [@CalistoFriant2020; @rodl2022; @corvellec2021], is bouleversing the design process to make clear that the ecological systems do not have nearly endless capacity to provide resources and adsorb wastes.
+The circular economy concept in the policy [@EC2015], industrial [@EllenMacArthurFoundation2015] and scientific [@nobre2021; @Kirchherr2017; @Schoggl2020] arenas as an umbrella concept, but also as a contested one [@CalistoFriant2020; @rodl2022; @corvellec2021].
+
+While the first two are not directly critical to capitalism and economic growth, degrowth proponents argue that economic growth cannot be sufficiently decoupled from environmental impacts, which renders further growth of the economy unsustainable
+
+
+is bouleversing the design process to make clear that the ecological systems do not have nearly endless capacity to provide resources and adsorb wastes.
+
+
+
+
 Working to make cities more circular implies adopting a particular approach, using the concept of "territorial metabolism," designating "the set of energy and material flows brought into play by the functioning of a given territory" [@refBarles].  
 This approach consists of understanding cities as the result of a specific socio-ecological regime, no longer solely through their functions or activities, but through their flows and stocks of materials and resources. 
 Many cities have taken up the resource management discourse to design circular economy action plans, which aim to reduce urban environmental impacts while generating new jobs, social well-being and room for innovation. 
@@ -144,7 +175,7 @@ It provides the possibility of mass diffusion of this technology, and consequent
 
 Therefore, as an alternative of globalized manufacturing values chains,
    <!-- Presenting distributed approach -->
-a major trend in the development of production systems seeks to establish an urban production model[@Herrmann2020; @juraschek2022] with decentralized and distributed characteristics [@priavolou2022; @cerdas2017].
+a major trend in the development of production systems seeks to establish an urban production model [@Herrmann2020; @juraschek2022] with decentralized and distributed characteristics [@priavolou2022; @cerdas2017].
    <!-- DGML -->
 Aiming at a *'design global / manufacturing local'* [@Kostakis2018] seems a proto-industrialization [@sabel1985] transition that is taking place in urban settlements that could a major impact in the next short future.
    <!-- FOSH and P2P -->
@@ -173,10 +204,13 @@ The urban factory is defined as "*a factory located in an urban environment that
 It creates products with a focus on the local market and allows customer involvement during value creation [@Herrmann2020; @Ijassi2022]. 
 
 
-### Major long vision: Circular and convivial production
+### Major long vision: Convivial urban production
+
 Today, a major societal issue rely on how to conceived socio-technical 'circular units' for manufacturing that integrates values of sobriety [@ref], resilience [@touriki2021; @VanFan2019], adaptability [@weichhart2021] and evolutive in urban settlements.
+<!-- Convivial tools -->
+The technologies that tend to lean towards sufficiency and creativity; adopt the open-source philosophy; are designed for affordability and durability; explore tacit knowledge; empower communities through access to means of production; and promote localisation of production and logistics; are defined as **convivial** [@priavolou2022a]
 <!-- And certainly, the rebound effect of plastic materials will be the case. -->
-The reuse, repairing, recycling approaches will need to converge in a post-growth economy context considering the societal issues of resource scarcity and waste accumulation in the urban settlements [@kallis2018; @savini2021].
+Moreoveor, the reuse, repairing, recycling approaches will need to converge in a post-growth economy context considering the societal issues of resource scarcity and waste accumulation in the urban settlements [@kallis2018; @savini2021].
 Indeed, today the establishment of these socio-technical systems need to include all ecosystem externalitites and the carrying capacity of the ecosystem to claim to sustainability [ @Bakshi2018; @Bakshi2019a].
    <!-- Urban lives -->
 The trend is reinforced by the fact that by 2050, it is expected that about 70% of the world's population will live in urban settlements [@savini2021].
@@ -184,7 +218,8 @@ Urban cities will be responsible for non-negligible environmental impact [@Zheng
 
 
 <!-- Distributed Recycling -->
-### Distributed recycling for additive manufacturing: a promising inclusion
+### Distributed recycling via additive manufacturing: a promising inclusion
+
 <!-- My major goal -->
 Since 2014, I have been working on the validation of the open-source 3D printing, filament-[@CruzSanchez2014] and pellet-based[@Arthur2020], as a robust manufacturing system, but also as a potential enabler of the mechanical recycling [@Cruz2015;@CruzSanchez2017; @lopez2022] of plastic waste feedstock.
 Likewise, I have been working on the design of the pertinent closed-loop supply chain [@Pavlo2018; @Santander2020], considering the  applicable sustainability indicators [@Santander2022] based on the scientific literature.
@@ -210,7 +245,7 @@ Fused granular fabrication is a recent experimental approach enabling the printi
 For this process, I worked in the desktop format [@Arthur2020], but it seems that this technology could further expand the boundaries of additive manufacturing and eventually recycling [@billah2021; @Reich2019;@Byard2019] for larger object [@petsiuk2022]. 
  <!-- Advantages -->
 
-    <!-- OPen source approach -->
+<!-- OPen source approach -->
 Distributed recycling fits into the circular economy paradigm [@Zhong2018; @Garmulewicz2018; @Despeisse2016], as it eliminates most embodied energy and pollution from transportation between processing steps.
 Also, it decreases the embodied energy of filament by 90% compared to traditional centralized filament manufacturing using fossil fuels as inputs [@Kreiger2013; @Zhong2017;@Horta2017].
 <!-- Open source -->
@@ -242,14 +277,24 @@ In the case of plastic waste, the main difficulty remains to make affordable the
 ## 2. Ambition & objectives 
 
 <!-- Delightling the problem -->
-The material rarefaction [@hultman2021], the ecological integration of manufacturing systems [@Bakshi2015; @Saladini2018; @Bakshi2019a] and the urban resilience [@xu2021e] calls for pushing forward the boundaries of knowledge of the urban production systems to unleash a sustainability transition towards circular economy.
+The material' rarefaction [@hultman2021], the need for ecological integration of manufacturing systems [@Bakshi2015; @Saladini2018; @Bakshi2019a] and for the urban resilience [@xu2021e] calls for pushing forward the boundaries of knowledge of the urban production systems to unleash a sustainability transition towards circular economy.
+<!-- Figure -->
+\begin{wrapfigure}[13]{r}[0pt]{0.45\textwidth}
+\centering
+    \includegraphics[width=\linewidth]{Figures/Levels.png}
+    \caption{Methodology}
+    \label{fig:WPs}
+\end{wrapfigure}
 <!-- General objective -->
-Therefore, the main objective of this project is **to establish a systemic methodological blueprint to fully understand how to design, implement and (e)valuate an open source distributed manufacturing/recycling production systems for an urban values chains inspired on the "Design Global / Manufacturing local" principles**.
-The deployment of circularity marks a return to a more productive conception of the city, that must consider the natural and urban ecosystem services, the strength the resilience capacities and take into account the energy sobriety of european territories.
+Therefore, the main objective of this project is **to establish a systemic methodological blueprint to fully understand how to design, implement and (e)valuate circular production systems at the urban territory based on the *"Design Global / Manufacturing local"* principles **.
+The deployment of circularity marks a return to a more productive design of the city, that must consider the natural and urban ecosystem services, the strengthened of the resilience capacities and taking into account the energy sobriety of european territories.
 <!-- Unpacking -->
 Thus, this project seeks two level targets:
-1) The scientific understanding of the design of socio-technical configurations of distributed production/recycling systems as a circular economy strategy in urban settlements. 
-2) Holistic and pluralistic (e)valuation of the pertinence of the open source appropriate technologies, practices and potential innovation as an assets for urban territorial development.
+
+1) The scientific understanding of the design of socio-technical configurations of convivial production/recycling systems as a resilience strategy in urban settlements. 
+
+2) Holistic and pluralistic (e)valuation of the open source appropriate technologies, practices and potential innovation as assets for urban territorial development.
+
 <!-- Presenting the unpacking layers -->
 Table XX presents an outline of the three major layers to consider in these project.
 
@@ -260,13 +305,7 @@ Table XX presents an outline of the three major layers to consider in these proj
 
 ```
 
-
 \normalsize
-
-
-
-
-
 
 
 ```{r}
@@ -277,6 +316,15 @@ Table XX presents an outline of the three major layers to consider in these proj
 #library(rsvg)
 #rsvg_png(svg = paste0(URL, 'DRAM/SDRAM-00.svg'), "Figures/SDRAM-00.png")
 ```
+
+
+## 3. An Impact project
+
+- **Main scientific impacts.** (1) the breakthrough understating of the implementation and evaluation  of the design of sustainability of distributed urban recycling systems
+
+
+- **Main societal impacts.** If the expected modeling are confirmed, the outcome of this pproject will allow  urban and technical desicion-makers the implementation of local recycling circuits of available plastic waste by means of small, ro  distribed recycling socio-technical units.
+
 
 
 # Section b. Methodology
@@ -290,52 +338,116 @@ Table XX presents an outline of the three major layers to consider in these proj
     \caption{Methodology}
     \label{fig:WPs}
 \end{wrapfigure}
-SDRAM implement a methodology made of four working packages (WP), as illustrated in Fig. \ref{fig:WPs}.
+
+<!-- Introduction of the project court -->
+This project implements a methodology made of four working packages (WP), as illustrated in Fig. \ref{fig:WPs}.
+We recognize appropriate intermediate objectives (Tasks) and we individuate the specific interventions of the members of the research team. 
+Moreover, we discuss the particular methodologies that we plan to adopt and we make a balance among the risks and gains associated to each action. 
+<!-- We also propose suitable exit strategies in the eventuality that the risk related to a specific activity results to be excessively high. -->
 <!-- WP1: Cricuit court -->
 The aim of WP1 is to set a baseline for an integrative and critical analysis of urban territory in the frame of  micro-value chains for manufacturing/recycling production.
 This working package gives the insights for the WP2, and WP3, which are key of the project.
    <!-- WP2 -->
-The WP2 seeks to consolidate systematize a design process for OSAT for a complete distributed manufacturing/recycling process establishing an unit maturity level index for each, but more important, a system maturity level for the integration in a urban ecosystem.
-<!-- The main goal is to establish a complete OSAT design framework ecosystems to valorize the waste niches opportunities identified in WP1.   -->
+The WP2 seeks to consolidate systematize a design process for OSAT for a complete distributed manufacturing/recycling process establishing an unit maturity level index, but more important, a system maturity level for the integration into an urban ecosystem.
+<!-- Output -->
+The main output is to establish a complete OSAT design framework ecosystems to valorize the waste niches opportunities identified in WP1.
    <!-- WP3 -->
 The WP3 aims to identify a pluralistic (e)valuation framework for the urban closed-loop system network integrating three essential issues: sustainability, resiliency, and agility into a circular economy praxis.
    <!-- WP4 -->
-Finally, WP4 is dedicated to the experimentation of the several products case studies of the urban circular manufacturing taking into at case studies the implementation of the Green Fablab Project at the third place of OK3 at Nancy-France.
-The object is to replicate this analysis in other territories such Chile, in collaboration with Prof. Pavlo Santander, and in Canada with collaboration of Joshua Pearce, Grece with , Germenay... 
+Finally, WP4 is dedicated to the experimentation of the several  case studies of the urban circular manufacturing taking as exemple into at case studies the implementation of the Green Fablab Project at the third place of OK3 at Nancy-France.
+The object is to replicate this analysis in other territories such Chile, in collaboration with Prof. Pavlo Santander at the university of Santiago de Chile, and in Canada with collaboration of Prof. Joshua Pearce at Western University. 
+Work packages are synthetically detailed hereinafter.
 <!-- Close -->
 Work packages are synthetically detailed hereinafter.
 
 
 ### WP 1: Theoretical baseline on urban value chains 
 
-WP1 aims at developing a integral methodology that to diagnose, quantify and evaluate the potential urban value chains for distributed recycling loops on a territory considering the ecological priorities of the territory.
-The achievement to SDRAM target relies the urban spatial analysis and stakeholders characteristics as an entry point of the design of the socio-technical system mapping two major outputs:
-   <!-- Diagnosis -->
-1.1) The first output aims to highlights: 
-(a) the identification of the priorities in terms of ecosystems services of the territory at the urban planning level, and how the plastic waste material affects them.
-(b) the evaluation (technical, economic and environmental) of the current waste management system to identify the '  of the limits of the  loop chains , existing plastic 'gaps' that distributed recycling approach can fill,
-and (c), a stakeholder characterization analysis needs (e.g. sorting centres, recycling centres, schools). 
+
+```{r, child = 'Tables/WP1.qmd' , eval=FALSE}
+
+
+```
+
+<!-- Main objective: -->
+**Main objective**:
+<!-- Intro -->
+This WP deals with the development of the needed aid-decision tools to unfold the potentials micro-value chains and exchange flows induced by distributed recycling. 
+This framework is based on the urban spatial analysis and stakeholders characteristics as an entry point.
+<!-- Output -->
+In this work package, the major output will be an aid-decision tool to possible be the input for WP2 and WP3. 
+The steps that I will follow to develop aid-decision tool used in this project.
+
+#### Task 1.1: to establish a methodological framework that close the existing data gaps in terms of secondary plastic material availability at the urban level considering its complexity level of revalorization. 
+
+The monitoring and assessing material consumption and material productivity is critical, both from a macroeconomic perspective —to assess whether sufficient action has been taken, as well as from a local perspective— to support local decision makers in setting new priorities toward long-term objectives [@Bianchi2020].
    <!-- Diagnosis --> 
-Then in 1.2), the second output aims to close the existing data gaps[@Bianchi2020] in terms of secondary material availability at the urban level considering its complexity level of revalorization. 
-The goal is to couple *{territory x material}* together as a material flow quantitative analysis to assess the potential to material for a closed-loop supply chain. 
-This is particularly relevant in the context of plastic products where governments worldwide are placing ambitious circularity targets due to the accumulation.
+The goal is to define a *{territory x material}*  index from a quantitative approach and urban metabolism to study resource use in a urban city.
+This assessment aims to quantify hotspots (availability and level of contamination) based on territorial and footprint indicators and assess scenarios for the design of a recycling closed-loop supply chain. 
+For the case of plastic material, this is particularly relevant given ambitious circularity targets that certain governments have putting in place [@france] due to the their impact.
    <!-- Final output -->
-The priority is to reveal a list of 'suitable' secondary plastic materials wastes at the urban level that today are not fully understood and valorized. 
+The priority is to reveal a list of 'suitable' secondary materials wastes at the urban level that today are not fully understood and valorized. 
 This analysis will be carried out at least every year, and if possible more frequently to see if there is a change or seasonality in the composition of this untreated waste. 
-<!-- The methodology will be built from the literature combined with a deep field work at least on two territories.  -->
+
+#### Task 1.2: Qualitative analysis of the established valorization systems of recycling the urban territorial priorities and stakeholders in the frame of ecosystems services.
+
+The main aim in this task is a methodological tool to align priorities in the development of urban production and urban development priorities, and in that way, to take informed decisions on the development of urban (circular) factories in a local territory.
+
+
+#### Task 1.3: Multi-criteria analysis of the urban territorial priorities and stakeholders in the frame of ecosystems services.
+
+The main aim in this task is a methodological tool to align priorities in the development of urban production and urban development priorities, and in that way, to take informed decisions on the development of urban (circular) factories in a local territory.
+
+Human life and activities rely on ecosystem services (ES) provided by nature. 
+The ecosystem services  are the ecological characteristics, functions or processes that contribute (actively or passively) to the human well-being [@Costanza1997; @Costanza2017]. 
+Ecosystem goods (e.g; Food) and services (e.g. waste assimilation) illustrate the benefits that human derive from the ecosystem functions [@Costanza1997].
+The ecosystem services do not flow to human well-being without crucial interactions with the different forms of capital (Natural, Social, Human, Built), which entails the need of understanding, modelling, measuring, and managing ES in a transdisciplinary approach. 
+Likewise, the concept of ecosystem dis-service denotes the processes and functions that affect humans in ‘negative’ way, making damage and costs [@ref]. 
+With the concentration of people and activities in cities, these services are intensively utilized in urban space to an extent that in most cases cannot be provided by the local ecosystem. 
+Thus, cities (and urban factories) have to rely on supply regions and connection to their hinterland. 
+One major point that ES make clear is to raise awareness on the recognition of interdependence of human, humanity’s primary dependances on the ‘functions of’ natural capital which reflects the fact that, however they may perceive themselves, humans are part of, and not apart from, nature [@Ekins2003]. 
+This entails the necessity to create knowledge for transdisciplinary approaches using ES as boundary object for sustainability for diverse stakeholders [@Honeck2021].
+
+
+<!-- Starting poit -->
+As starting point, we will analyze the sites and the territories concerned by the Green Fablab project, namely the urban community of “Grand Nancy” (CUGN). 
+We benefit from the support of the municipality and the recognition of the project in the local area.
+<!-- Tasks -->
+We will be able to perform a field diagnosis of this territory to map and characterize the existing stakeholders needs, a SWOT analysis (Strengths, Weaknesses, Opportunities, and Threats) including technical, economic and environmental evaluations of the existing value chains, to understand where the value chain could be positioned in the future. 
+<!-- Possible output -->
+This test is the first step to possible replicate the analysis for other terrotories.
+
 <!-- The methodology will be tested on a third territory. -->
 
 
-### WP 2: Maturity level and technodiverstity level of the open source appropritte technology
+\small
 
-The WP2 will be focused on the unit- and facility-level to better understand  how OSAT can be implemented in urban micro-recycling systems. 
-The main purpose of this task is to leverage a resilient manufacturing [@xu2021e; @zhang2011] under the logic of Design Global/Manufacture Local robustness.  To do so, three major tasks are seen:
+\normalsize
 
-2.1) definition of a scientific literature and critical analysis on the adoption [@reinauer2021] and barriers of the open-source appropriate technologies with particular focus on distributed recycling considering the modularity types [@gavras2021], gaps in the hardware development and .  
-2.2) Mapping of new/adapted practices and tools that would be needed to support local manufacturers and local decision makers to navigate and overcome the challenges of distributed recycling manufacturing.
-2.3) Identification a system maturity level that enable the constitution of urban closed-loop supply chain . 
-<!-- Promise -->
-...
+
+### WP 2: Maturity and technodiverstity level of the open source appropriate technology for the degrowth paradigm
+
+**Main objective**:
+<!-- Purpose of WP2 -->
+The WP2 will be focused on the unit- and facility-level to better understand how the design process of open source appropriate technology can be implemented in urban micro-recycling systems. 
+<!-- Intro -->
+Nevertheless, a future establishment of technical standards bringing clarity in this emerging and moving field is needed.
+
+The main purpose of this task is to leverage a resilient manufacturing [@xu2021e; @zhang2011] under the logic of Design Global/Manufacture Local robustness.  
+To do so, three major tasks are seen:
+
+#### (2.1) Design  design of Open Source 
+definition of a scientific literature and critical analysis on the adoption and barriers of the open source appropriate technologies with particular focus on distributed recycling considering the modularity
+
+The definition of a scientific literature and critical analysis on the adoption [@reinauer2021] and barriers of the open-source appropriate technologies with particular focus on distributed recycling considering the modularity types [@gavras2021], gaps in the hardware development and .  
+
+#### (2.2) Mapping of new/adapted practices and tools that would be needed to support local manufacturers and local decision makers to navigate and overcome the challenges of distributed recycling.
+
+
+#### (2.3) Identification a system maturity level that enable the constitution of urban closed-loop supply chain . 
+
+
+
 
 ### WP 3: Pluralistic (e)valuation of distributed recycling systems
 
@@ -381,14 +493,6 @@ SDRAM is a high operation and conceptual-risk project mainly because the integra
 
 
 
-
-## 4. An Impact project
-
-- **Main scientific impacts.** (1) the breakthrough understating of the implementation and evaluation  of the design of sustainability of socio-technical systems
-
-
-- **Main societal impacts.** If the expected modeling are confirmed, the outcome of this pproject will allow  urban and technical desicion-makers the implementation of local recycling circuits of available plastic waste by means of small, ro  distribed recycling socio-technical units.
-
 ## 5. Resources and budget
 
 
@@ -417,11 +521,14 @@ As for me, I will dedicate 42 p.m. of my work to manage this five-year exciting 
 \newpage
 
 ```{r}
-#child : 'CV.qmd' 
+# child : 'CV.qmd' 
 
 ```
 
+```{r}
+# child : 'CV.qmd' 
 
+```
 
 ## References
 

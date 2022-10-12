@@ -11,6 +11,21 @@ subparagraph: yes
 ---
 <!-- in a context of ‘Spaceship Earth’, as an apt metaphor to chart the boundaries for a safe planet [@sterner2019]. -->
 
+
+
+<!-- Wicked problems -->
+Plastic waste contamination [@de-la-torre2021],  climate change [@stoddard2021], biodiversity loss [@hermoso2022] are  some examples of those degradations qualified as *wicked problems* characterized by their complexity, interdependence and contextual specificity [@Zivkovic2018].
+
+
+
+
+<!-- Open desing -->
+Open-design can be defined as '*the state of a design project where both the process and the sources of its outputs are accessible and (re)usable, by anyone and for any purpose’*[@Boisseau2018].
+
+In the case of open source hardware  as: the Open Source Hardware Association defines : *Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. The hardware’s source, the design from which it is made, is available in the preferred format for making modifications to it. Ideally, open source hardware uses readily-available components and materials, standard processes, open infrastructure, unrestricted content, and open-source design tools to maximize the ability of individuals to make and use hardware. Open source hardware gives people the freedom to control their technology while sharing knowledge and encouraging commerce through the open exchange of designs*
+
+
+
 <!-- Reprap -->
 With the expiration of Fused Deposition Modelling (FDM)  patents @Crump1988 in the mid-2000s, Adrian Bowyer envisioned the concept of  self-replicating machines, capable of manufacturing their own parts by themselves, and so simple and easy that anyone would be able to build them [ @Bailard2007; @Jones2011]. 
 This was the start of  the *RepRap* project (or **Rep**licating **Rap**id-prototyper).
@@ -32,7 +47,7 @@ Most of the polymers manufactured today will persist for at least decades (if no
 Recycling processes (mechanical and feedstock recycling) of plastics are methods for reducing environmental impact and resource depletion. 
 From the energy and environmental perspective in waste-management issues, it is well demonstrated the better performance of recycling scenarios with respect to landfilling or incineration options [4, 5].
 In particular, mechanical recycling which entails the production through physical means of new plastic products from plastic waste [4, 6]. 
-However, the difficulties of this process are mainly related to the degradation of recyclable mate- rials, heterogeneity of plastic wastes and the logistic related to the process [7].
+However, the difficulties of this process are mainly related to the degradation of recyclable materials, heterogeneity of plastic wastes and the logistic related to the process [7].
 In fact, in the case of U.S. only 6.5% of the used plastics are recycled in conventional centralized recycling [8].
 In the case of Europe, only 26% equivalent to 6.6 million tonnes in 2012 of post-consumer plastic wastes were recycled [2].
 The main reasons for the low rates of recycling plastics are related to the challenges of collection and transportation because of the high volume-to-weight ratio of the polymers. There is no net economical benefit from recycling plastic materials [9].
@@ -135,15 +150,8 @@ Thus, it engages different skills in the production process leading to new value
 Plastic waste contamination is one of the relevant stratigraphic indicator of what is recently considered the Anthropocene era [@de-la-torre2021]. 
    <!-- Anthropocene: Popularized by the chemist Paul Crutzen in 2000 -->
 The anthropocene frames the humans not only as biological but as geological force acknowledging the new status of humanity given the different markups in the ecosystems that are impacting the stability of the earth system.
-   <!-- Consequence of  -->
-The current globalized manufacturing activities have played a major role not only as motor for the economic development, but also the transgression of the planetary boundaries [@ONeill2018].
 
-   <!-- Major plastic problematic -->
-Soil and marine plastic pollution shows ecological, biogeochemical and physical thresholds and they are becoming a key component of the planetary boundary threat associated with chemical pollutants.
-   <!-- European Union Perspective  -->
-   <!-- Paradox  -->
-The delay that implies to put in place an alternative productive model is the main the paradox in this issue. 
-This implies the scientific questions on how to manage the huge amount of waste already present in the nature and the plastic waste generated in the short term expecting that materials science and industrial corpus develops feedstock in corcordance with the bio-geological cycles.
+
    <!-- changes in demography -->
 <!-- This is impulsed by the population increased from 3 to 6 billion since 1950, while the leap in economic activity  increased of 15-fold over that period, which is even more critical [@steffen2011].  -->
 Indeed, the rebound effect of the global mass production paradigm demands to rethink the paradigms of the means of production given the ecological degradation.
@@ -153,8 +161,10 @@ Indeed, the rebound effect of the global mass production paradigm demands to ret
     <u>underscored text </u>
 
 The consequence is for high volume and low weight polymers, the recycling of plastic is not cost-efficient in a centralized context.
-<!-- Deeping in the problem of recycling --> In fact, if we currently consider the sources of plastic waste and more specifically those from food packaging, we are faced with various limitations related to the types of material and their shaping.
-<!-- Sorting centers G1 --> More specifically, Taking the French case, the sorting centers find themselves with 3 material flows to manage.
+<!-- Deeping in the problem of recycling --> 
+In fact, if we currently consider the sources of plastic waste and more specifically those from food packaging, we are faced with various limitations related to the types of material and their shaping.
+<!-- Sorting centers G1 --> 
+More specifically, Taking the French case, the sorting centers find themselves with 3 material flows to manage.
 <!-- Group 1 --> The first group (G1), namely that of bottles and flasks, is well controlled with relatively distributed sorting throughout the French territory (about 150 sites) and centralized mechanical recycling in a few specialized centres by type of plastic (polyethylene (PE), polypropylene (PP), high density PE (HDPE) PET).
 <!-- G2 --> For the second group (G2: i.e. refusal of sorting PET, PP, PET/ HDPE mixture, polystyrene polyethylene (PS)), following the many actions carried out in recent years, we find ourselves with sorted plastics but due to a lack of circuit and value chain only residual energy value is considered although their properties are still high.
 <!-- G3 --> Finally, the third group (G3: i.e. biopolymers, polylactic acid (PLA), Polyhydroxyalkanoate (PHA)) consists of unsorted plastics that end up in landfills and on which we have very little information \[17\].

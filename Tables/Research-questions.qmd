@@ -1,13 +1,13 @@
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Challenge 1: The role of urban system in the deployment of the circularity.**                                                                                           |
+| **Challenge 1: Urban systems' role in the deployment of the circularity.**                                                                                                |
 +===========================================================================================================================================================================+
 | In order to identify the design process of an urban circular production system, some relevant questions are the following:                                                |
 |                                                                                                                                                                           |
-| -   What are the acceptability conditions for the deployment of urban circular economy initiatives ?                                                                      |
+| -   How to dimension production systems to be consistent with the resources and materials (first and second hand) considered as local ?                                   |
 |                                                                                                                                                                           |
 | -   How to establish the link to integrate territorial planning priorities with respect to production systems priorities within an urban circular economy context?        |
 |                                                                                                                                                                           |
-| -   How to dimension production systems to be consistent with the resources and materials (first and second hand) considered as local?                                    |
+| -   What are the acceptability conditions for the deployment of urban demostrators of circularity?                                                                        |
 |                                                                                                                                                                           |
 | -   How to identify the opportunities and barriers from a social, technological, political and legal point of view for the implementation of an urban production network? |
 |                                                                                                                                                                           |
@@ -18,10 +18,8 @@
 | -   How would the implementation of urban production systems affect the functional blocks of an urban territory?                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\vspace{-0.5cm}
-
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Challenge 2: Understand the open source technodiversity as territorial asset.**                                                                                  |
+| **Challenge 2: Systematize the open source technodiversity as territorial asset.**                                                                                 |
 +====================================================================================================================================================================+
 | To implement an open source appropriate technology ecosystem suitable for circular urban production system, some relevant research questions are the following:    |
 |                                                                                                                                                                    |
@@ -42,8 +40,6 @@
 | -   What are the core competences needed in an open source ecosystem for urban circularity?                                                                        |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\vspace{-0.5cm}
-
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Challenge 3: Pluralistic (e)valuation of circular and urban production systems.**                                                                                                       |
 +===========================================================================================================================================================================================+
@@ -57,5 +53,7 @@
 |                                                                                                                                                                                           |
 | -   What would be the relevant functional unit to delimit the range of action of the production/recycling system within the urban metabolism?                                             |
 |                                                                                                                                                                                           |
-| -   What are considerations the necessary to represent the preferences of the stakeholders in the decision-making process of integration urban / manufacturing systems?                   |
+| -   What are the necessary considerations to represent the preferences of the stakeholders in the decision-making process of integration urban / manufacturing systems?                   |
+|                                                                                                                                                                                           |
+| -   How to support the process form collective consensus to the deployment of these emerging systems under a purpose oriented approach?                                                   |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
