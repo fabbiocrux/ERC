@@ -24,7 +24,7 @@ format:
     link-citations: yes
     include-in-header: [assets/preamble.tex]
     #include-before-body: [assets/titlepage-B2.tex]
-    keep-tex: true
+    keep-tex: false
 
     #fontfamily: arial 
 execute:
@@ -181,7 +181,7 @@ The OS approach is now also gaining traction in free and open source hardware (F
 One of the primary drivers, is that all forms of free and open source technology software and hardware (FOSS and FOSH) can provide a substantial cost savings [@petch2014; @pearce2015a; @pearce2015b; @wittbrodt2013].
 
 <!-- Additive manufacturing -->
-The open source additive manufacturing technology, also know as 3D printing, is playing a major role in the idea of democratization of manufacturing means [@Beltagui2020]. 
+The open source additive manufacturing technology, also know as 3D printing, is playing a major role in the idea of democratization of manufacturing means [@Beltagui2020; @Powell2012]. 
 In particular, material  extrusion based units are widely used, thanks to the simplicity of operation, the Do-It-Yourself (DIY) approach and the open-support communities. 
 <!-- Examples of distributed change -->
 Thousands of open-source products are shared by the global community from consumer goods to scientific [@Pearce2020a] and medical equipment[@Pearce2020a; @He2014]. 
@@ -370,7 +370,7 @@ The object is to replicate this analysis in european territories and americas te
 Work packages are synthetically detailed hereinafter.
 
 
-### WP 1: Theoretical baseline grid analysis for closed-loop urban value chains 
+### WP 1: Theoretical baseline analysis for closed-loop urban value chains 
 
 ```{r, child = 'Tables/WP1.qmd' , eval=FALSE}
 
@@ -390,9 +390,9 @@ In this work package, the major output will be an aid-decision tool to possible 
 
 Based on systematic literature review and semi-structured  interviews, I aim to constitute what we call an open 
 
-#### Task 1.1: Closing the data gap
+#### Task 1.1: Closing the data gap:
 
-The monitoring and assessing material consumption and material productivity is critical, both from a macroeconomic perspective —to assess whether sufficient action has been taken, as well as from a local perspective— to support local decision makers in setting new priorities toward long-term objectives [@Bianchi2020].
+The monitoring and assessing material consumption and material productivity is critical, both from a macroeconomic perspective — to assess whether sufficient action has been taken, as well as from a local perspective— to support local decision makers in setting new priorities toward long-term objectives [@Bianchi2020].
 This task aims to establish a methodological framework that close the existing data gaps in terms of secondary plastic material availability at the urban level considering its complexity level of revalorization. 
    <!-- Diagnosis --> 
 The goal is to define a *{territory x material}*  index from a quantitative approach and urban metabolism to study resource use in a urban city.
@@ -403,14 +403,15 @@ The priority is to reveal a list of 'suitable' secondary materials wastes at the
 This analysis will be carried out at least in three urban municipalities in Europe (France, Spain and Greece)
 at least every year, and if possible more frequently to see if there is a change or seasonality in the composition of this untreated waste. 
 
-#### Task 1.2: Qualitative analysis of the established valorization systems of recycling the urban territorial 
+#### Task 1.2: Qualitative analysis of the established valorization recycling systems the urban territorial: 
 
 The main aim in this task is a methodological tool to align priorities in the development of urban production and urban development priorities, and in that way, to take informed decisions on the development of urban (circular) factories in a local territory.
 
 
-#### Task 1.3: Multi-criteria analysis of the urban territorial priorities and stakeholders in the frame of ecosystems services.
+#### Task 1.3: Multi-criteria analysis of the urban territorial priorities in the frame of ecosystems services.
 
-The main aim in this task is a methodological tool to align priorities in the development of urban production and urban development priorities, and in that way, to take informed decisions on the development of urban (circular) factories in a local territory.
+The main aim in this task is a methodological analysis to confront the urban development priorities with urban industrial priorities taking as lens of analysis the of ecosystem services (ES) framework.
+<!-- Ecosystem services -->
 Human life and activities rely on ecosystem services (ES) provided by nature. 
 The ecosystem services  are the ecological characteristics, functions or processes that contribute (actively or passively) to the human well-being [@Costanza1997; @Costanza2017]. 
 Ecosystem goods (e.g; Food) and services (e.g. waste assimilation) illustrate the benefits that human derive from the ecosystem functions [@Costanza1997].
@@ -422,42 +423,47 @@ One major point that ES make clear is to raise awareness on the recognition of i
 This entails the necessity to create knowledge for transdisciplinary approaches using ES as boundary object for sustainability for diverse stakeholders [@Honeck2021].
 
 
-<!-- Starting poit -->
-As starting point, we will analyze the sites and the territories concerned by the Green Fablab project, namely the urban community of “Grand Nancy” (CUGN). 
-We benefit from the support of the municipality and the recognition of the project in the local area.
-<!-- Tasks -->
-We will be able to perform a field diagnosis of this territory to map and characterize the existing stakeholders needs, a SWOT analysis (Strengths, Weaknesses, Opportunities, and Threats) including technical, economic and environmental evaluations of the existing value chains, to understand where the value chain could be positioned in the future. 
-<!-- Possible output -->
-This test is the first step to possible replicate the analysis for other terrotories.
-
-<!-- The methodology will be tested on a third territory. -->
+**Delivrables**
 
 
-\small
 
-\normalsize
-
-
-### WP 2: Maturity and technodiverstity level of the open source appropriate technology for the degrowth paradigm
+### WP 2: Maturity and technodiverstity level of the OSATs for distributed recycling.
 
 **Main objective**:
 <!-- Purpose of WP2 -->
-The WP2 will be focused on the unit- and facility-level to better understand how the design process of open source appropriate technology can be implemented in urban micro-recycling systems. 
-<!-- Intro -->
-Nevertheless, a future establishment of technical standards bringing clarity in this emerging and moving field is needed.
+In parallel of WP1, the WP2 will be focused on the unit- and facility-level to propose the design process for open source appropriate technology can be implemented in urban distributed recycling networks. 
+Inspired by the study of the resilience of natural ecosystems [@ref], the purpose of this task is to analyze the technodiversity of the complete technical chain for distributed recycling.
+This analysis aims to leverage the baseline for a resilient manufacturing [@xu2021e; @zhang2011] under the logic of 'Design Global/Manufacture' Local.
 
-The main purpose of this task is to leverage a resilient manufacturing [@xu2021e; @zhang2011] under the logic of Design Global/Manufacture Local robustness.  
+**Main Research method and approach**:
+As Based on systematic literature review and semi-structured  interviews, I aim to constitute what we call an open 
+
 To do so, three major tasks are seen:
-
-#### (2.1) Design  design of Open Source 
-definition of a scientific literature and critical analysis on the adoption and barriers of the open source appropriate technologies with particular focus on distributed recycling considering the modularity
-
-The definition of a scientific literature and critical analysis on the adoption [@reinauer2021] and barriers of the open-source appropriate technologies with particular focus on distributed recycling considering the modularity types [@gavras2021], gaps in the hardware development and .  
-
-#### (2.2) Mapping of new/adapted practices and tools that would be needed to support local manufacturers and local decision makers to navigate and overcome the challenges of distributed recycling.
+<!-- Intro -->
 
 
-#### (2.3) Identification a system maturity level that enable the constitution of urban closed-loop supply chain . 
+#### Task 2.1 Modularity, Openess and Conviviality index of a complet OSAT technical chain.
+<!-- Goal of the task -->
+The purpose of this task is threefold.
+(1) firstly, to establish a complete database of the existent OSATs associated to each majors phases of distributed recycling (I - IV in figure @fig-DRAM) identifying also the gaps in to be filled in hardware development.
+These initial mapping will be based on on open source hardware from scientific literature (e.g. HardwareX journal) and from grey/maker literature repositories (e.g. Github, Forums, Precious Plastic). 
+(2) Secondly, a quantitative analysis based on the network science will be made to evaluate the modularity type [@gavras2021] of the avaialble OSATs found in step 1.
+(3) and thirdly,  a qualitative analysis on the openess [@Bonvoisin2018b] and the conviviality matrix [@vetter2018] will also be performed to the OSATs of step 1.
+<!-- Output -->
+The major output of this task is to consolidate a first multi-criteria database of the technodiversity development of distributed recycling. 
+
+#### Task 2.2 Mapping of new/adapted practices and tools for adoption:
+
+The main of this task is to identify the adoption hinders and the technological lock-ins of open hardware for distributed recycling. 
+<!-- Explainging adoption -->
+Recently, using interpretative structural modeling (ISM) methodology, 22 technical barriers were identifying in the adoption from the maker perspective [@Peeters2019]. 
+Nevertheless, we will make a deeper analaysis in how mayor factors like stability and modularity and  active ecosystem can possible give answer to these technical challengues based on recent experiments of open hardware ecosystems [@reinauer2021; @Legenvre2020].
+A definition of key performance indicators from a scientific will highlight the priority to support *practitioners* overcome the challenges of distributed recycling for the adoption of  industrial actors (e.g. SMEs).
+
+#### Task 2.3 Identify a Unit- and System maturity to the constitution of urban closed-loop supply chain. 
+
+Based on the Task.2.1 and Task 2.2, the aim of this task is to establish a Multi-Criteria Decision Making (MCDM) approach can be established for selecting the best process for distributed process that can be optential pertinent for urban territory.
+This MCDM model will deals with user preferences of the territorial but also witht the theoretical maturity level. 
 
 
 
@@ -465,7 +471,7 @@ The definition of a scientific literature and critical analysis on the adoption 
 ### WP 3: Pluralistic (e)valuation of distributed recycling systems
 
 <!-- Goal of the WP -->
-In parallel of WP2, the WP3 aims to consolidate aid-decision tool to reveal and better understand under which conditions these distributed recycling/manufacturing urban chains are pertinent for the local territory.
+The WP3 aims to consolidate aid-decision tool to reveal and better understand under which conditions these distributed recycling/manufacturing urban chains are pertinent for the local territory.
 This tool describe and characterize the new value chain to include new form of pluralism valuation [@gunton2022] and techno-ecological interactions [@Liu2020c; @Liu2019g; @Saladini2018].
 More important to avoid Jevons paradox [@giampietro2018], it is determine the scale of action considering the technical maturity, economic viability and environmental respect of the ecosystem services.
 <!-- Importance of ES in the Engineering -->
@@ -481,6 +487,19 @@ The WP4 aims to consolidate a starting point for a longitudinal study [@langley2
 <!-- Goal of the WP -->
 WP4 is devoted to the iteration and evaluation of the urban production networks to deep understand the evolution.
 4.1) Several case studies of distributed fabrication / recycling will be documented and developed in complement with a comparative and contextualized Life Cycle Assessment (LCA) of the new secondary AM material compared to actual materials. 
+
+<!-- Starting poit -->
+As starting point, we will analyze the sites and the territories concerned by the Green Fablab project, namely the urban community of “Grand Nancy” (CUGN). 
+We benefit from the support of the municipality and the recognition of the project in the local area.
+<!-- Tasks -->
+We will be able to perform a field diagnosis of this territory to map and characterize the existing stakeholders needs, a SWOT analysis (Strengths, Weaknesses, Opportunities, and Threats) including technical, economic and environmental evaluations of the existing value chains, to understand where the value chain could be positioned in the future. 
+<!-- Possible output -->
+This test is the first step to possible replicate the analysis for other terrotories.
+
+<!-- The methodology will be tested on a third territory. -->
+
+
+
 4.2) A strategic roadmap will be a major delivered to understand the possible evolution of 
 
 To pass from ecodesign to an operation design for sustainability approach, this WP4 will  be based ten different models at operational, tactical, and strategical levels [@SousaRocha2019].
