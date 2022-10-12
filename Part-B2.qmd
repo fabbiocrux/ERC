@@ -241,18 +241,19 @@ Also, it decreases the embodied energy of filament by 90% compared to traditiona
 Additionally, open-source investment should result in an extremely high return on investment (ROI)[@Pearce2020a]. 
 This makes distributed recycling environmentally superior to other methods of plastic recycling systems.
 
+### The scientific problem: Connect the dots of City-Product-Recycling nexus.
    <!-- From logistical -->
-However, major efforts in the scientific literature have been only concentrated in the materials and technical validation in laboratory conditions.
-**The analysis of the holistic impact that this process can have in the context of a city remains not well understood**.
+Major efforts in the DRAM scientific literature have been only concentrated in the materials and technical validation in laboratory conditions.
+However, *the holistic impact that distributed recycling can have in the context of an urban city suffers from the critical uncertainty of its relevance in implementation and (e)valuation affecting the support and monitoring of this urban strategy*.
 From the urban planning perspective, there are not methodological tools to (e)valuate (to see the impact but also to see the worth) of possible distributed plastic networks supported by the open source.
-Indeed, a community-driven of plastic recycling remains in the makers, Fablabs spheres where the competences and values may differe from the general public. 
-A system validation is needed to possible understant the pertinent scale that his approach can take in urban settlements.
+Indeed, a community-driven of plastic recycling remains in the makers, Fablabs spheres where the competences and values may from the general public. 
+A system validation is needed to possible understand the pertinent scale that his approach can take in urban settlements and to show the limits that can entail (Jevons Paradox [@giampietro2018], Waste-Resource Paradox [@Greer2021]).
 
 <!-- participant have profound values and technical capacity to implement. -->
 <!-- from technical aspect the system maturity is ambiguous given that not all the value chain for the implementation of a are well [@CruzSanchez2020]. -->
    <!-- Materials -->
 
-
+### First insigths towards a systemic analysis.
    <!-- From logistical -->
 In the framework of a EUH2020 project called INEDIT[^inedit], I have been leading the implementation of the **Green Fablab** demostrator inside the third place called Octroi-Nancy Association [^ok3] since November 2021[^covid].
    <!-- INEDIT  -->
@@ -317,15 +318,21 @@ Based on that, table XX presents an outline of the research question of the thre
 ```
 
 
+
+
 ## 3. An Impact project
 
 - **Main scientific impacts.** 
-This project aims to make a  the breakthrough understating of the implementation and evaluation of the distri design of sustainability of distributed urban recycling systems.
-This opens ups the 
+
+1) This project aims to make a breakthrough ontological contributions on the understanding of the implementation and evaluation of distributed recycling as a socio-technical unit for urban sustainability transition.
+2) In the sustainable transitions research, This dilemma has evoked significant efforts to move beyond the single-case embracing of irreducible complexity, involving modelling approaches and indicator development. This remains one of the main methodological frontiers for transitions research.
 
 
 
-- **Main societal impacts.** If the expected modeling are confirmed, the outcome of this pproject will allow  urban and technical desicion-makers the implementation of local recycling circuits of available plastic waste by means of small, ro  distribed recycling socio-technical units.
+- **Main societal impacts.** 
+If the expected results are confirmed, the outcome of this project will allow urban and technical desicion-makers the implementation of local recycling circuits of available plastic waste by means of small, distribed recycling socio-technical units for plastic recycling.
+
+If the pertinen expected of small size of these recycling unit are 
 
 
 
@@ -347,7 +354,7 @@ We recognize appropriate intermediate objectives (Tasks) and we individuate the 
 Moreover, we discuss the particular methodologies that we plan to adopt and we make a balance among the risks and gains associated to each action. 
 <!-- We also propose suitable exit strategies in the eventuality that the risk related to a specific activity results to be excessively high. -->
 <!-- WP1: Cricuit court -->
-The aim of WP1 is to set a baseline for an integrative and critical analysis of urban territory in the frame of  micro-value chains for manufacturing/recycling production.
+The aim of WP1 is to set a baseline for an integrative and generic analysis of urban territory in the frame of  micro-value chains for manufacturing/recycling production.
 This working package gives the insights for the WP2, and WP3, which are key of the project.
    <!-- WP2 -->
 The WP2 seeks to consolidate systematize a design process for OSAT for a complete distributed manufacturing/recycling process establishing an unit maturity level index, but more important, a system maturity level for the integration into an urban ecosystem.
@@ -357,14 +364,13 @@ The main output is to establish a complete OSAT design framework ecosystems to v
 The WP3 aims to identify a pluralistic (e)valuation framework for the urban closed-loop system network integrating three essential issues: sustainability, resiliency, and agility into a circular economy praxis.
    <!-- WP4 -->
 Finally, WP4 is dedicated to the experimentation of the several  case studies of the urban circular manufacturing taking as exemple into at case studies the implementation of the Green Fablab Project at the third place of OK3 at Nancy-France.
-The object is to replicate this analysis in other territories such Chile, in collaboration with Prof. Pavlo Santander at the university of Santiago de Chile, and in Canada with collaboration of Prof. Joshua Pearce at Western University. 
-Work packages are synthetically detailed hereinafter.
+The object is to replicate this analysis in european territories and americas territories.
+<!-- such Chile, in collaboration with Prof. Pavlo Santander at the university of Santiago de Chile, and in Canada with collaboration of Prof. Joshua Pearce at Western University.  -->
 <!-- Close -->
 Work packages are synthetically detailed hereinafter.
 
 
-### WP 1: Theoretical baseline on urban value chains 
-
+### WP 1: Theoretical baseline grid analysis for closed-loop urban value chains 
 
 ```{r, child = 'Tables/WP1.qmd' , eval=FALSE}
 
@@ -374,24 +380,30 @@ Work packages are synthetically detailed hereinafter.
 <!-- Main objective: -->
 **Main objective**:
 <!-- Intro -->
-This WP deals with the development of the needed aid-decision tools to unfold the potentials micro-value chains and exchange flows induced by distributed recycling. 
-This framework is based on the urban spatial analysis and stakeholders characteristics as an entry point.
+This WP deals with the theoretical grid analysis to unfold the potentials micro-value chains and exchange flows induced by distributed recycling at urban territories. 
+This framework is based on the urban spatial analysis and stakeholders characteristics as an entry point for 
+The distributed and decentralize recycling considering the different characteristics of urban municipalities.
 <!-- Output -->
 In this work package, the major output will be an aid-decision tool to possible be the input for WP2 and WP3. 
-The steps that I will follow to develop aid-decision tool used in this project.
 
-#### Task 1.1: to establish a methodological framework that close the existing data gaps in terms of secondary plastic material availability at the urban level considering its complexity level of revalorization. 
+**Main Research method and approach**:
+
+Based on systematic literature review and semi-structured  interviews, I aim to constitute what we call an open 
+
+#### Task 1.1: Closing the data gap
 
 The monitoring and assessing material consumption and material productivity is critical, both from a macroeconomic perspective —to assess whether sufficient action has been taken, as well as from a local perspective— to support local decision makers in setting new priorities toward long-term objectives [@Bianchi2020].
+This task aims to establish a methodological framework that close the existing data gaps in terms of secondary plastic material availability at the urban level considering its complexity level of revalorization. 
    <!-- Diagnosis --> 
 The goal is to define a *{territory x material}*  index from a quantitative approach and urban metabolism to study resource use in a urban city.
 This assessment aims to quantify hotspots (availability and level of contamination) based on territorial and footprint indicators and assess scenarios for the design of a recycling closed-loop supply chain. 
 For the case of plastic material, this is particularly relevant given ambitious circularity targets that certain governments have putting in place [@france] due to the their impact.
    <!-- Final output -->
 The priority is to reveal a list of 'suitable' secondary materials wastes at the urban level that today are not fully understood and valorized. 
-This analysis will be carried out at least every year, and if possible more frequently to see if there is a change or seasonality in the composition of this untreated waste. 
+This analysis will be carried out at least in three urban municipalities in Europe (France, Spain and Greece)
+at least every year, and if possible more frequently to see if there is a change or seasonality in the composition of this untreated waste. 
 
-#### Task 1.2: Qualitative analysis of the established valorization systems of recycling the urban territorial priorities and stakeholders in the frame of ecosystems services.
+#### Task 1.2: Qualitative analysis of the established valorization systems of recycling the urban territorial 
 
 The main aim in this task is a methodological tool to align priorities in the development of urban production and urban development priorities, and in that way, to take informed decisions on the development of urban (circular) factories in a local territory.
 
@@ -399,7 +411,6 @@ The main aim in this task is a methodological tool to align priorities in the de
 #### Task 1.3: Multi-criteria analysis of the urban territorial priorities and stakeholders in the frame of ecosystems services.
 
 The main aim in this task is a methodological tool to align priorities in the development of urban production and urban development priorities, and in that way, to take informed decisions on the development of urban (circular) factories in a local territory.
-
 Human life and activities rely on ecosystem services (ES) provided by nature. 
 The ecosystem services  are the ecological characteristics, functions or processes that contribute (actively or passively) to the human well-being [@Costanza1997; @Costanza2017]. 
 Ecosystem goods (e.g; Food) and services (e.g. waste assimilation) illustrate the benefits that human derive from the ecosystem functions [@Costanza1997].
@@ -497,9 +508,29 @@ SDRAM is a high operation and conceptual-risk project mainly because the integra
 
 ## 5. Resources and budget
 
+The project will be hosted by the Équipe de Recherche de Processus Innovatifs (ERPI) of Université de Lorraine (UL), in Nancy (France). 
+
+ERC funding will be necessary to consolidate my research team ERPI and, but also the european and international partners that I have been working on.
+In particular, Joshua Pearce that is profesor at the Western University of Canada on the OS.
+Sina and Anna 
+
+Vasilis Kostakis 
+
+Therefore, the funding will serve to enrol: 
+three Ph.D. students (36 p.m. for each Ph.D.) with strong basis in urban metabolism and territorial analysis (PhD1),
+open source hardware and systems analysis  (PhD2); and 
+ecological economics and system dynamics modelling (PhD3).
+
+Additionally
+three post-doctorate researchers (24 p.m. for each PostDoc) having a solid background on 
+environmental science and technology with particular emphasis on urban and industrial ecology (Postdoc1), and
+quantum chemistry calculations (Postdoc2) and strong skills in qualitative methodlogical apprach tests on power cycles (Postdoc3). 
+The planning of their activities is summarized in Fig. 8 and detailed hereinafter.
 
 
-
+**PhD1** will devote a part of the first two years of his doctoral studies on the consolidation of urban the development of the thermodynamic models and of the computational tool (WP1).
+At the end of S1, this tool will include, at least, the preliminary simplified models needed to start with task 2.a, which aims to define thermodynamic criteria needed to select thermodynamically suitable reactions in the next phase (2.b). 
+During S2 and S3, PhD1 will work on this task (2.a) of WP2 and, during S3 and S4 he will finalize the thermodynamic computational tool, including real fluid equations of state. In S3, PostDoc1 will start developing the procedure of task (2.b), aimed to search and to design reactions fulfilling the thermodynamic criteria provided by Ph.D.1 at the end of S3. This activity will take 3 semesters (S3-S5). In S5, Dr. Olivier Herbinet, associate professor at UL and affirmed expert developer of kinetic models of gas-phase reactions both by quantum chemistry calculation and experimental techniques, will provide his expertise in setting up, with PostDoc2, the activity of prediction of kinetic models by quantum chemistry calculations (task (2.c)). PostDoc2 will devote 2 years (S5-S8) to the prediction of the kinetics of the thermodynamically suitable reactions. However, quantum chemistry - automatized- calculations will take time. This is why, in parallel to this activity, PostDoc2 will work on task (2.d), aiming to thoroughly analyse the thermodynamic, kinetic, environmental and safety characteristics of the reactions that are gradually selected in task (2.c). PostDoc1 will also contribute to this task, working over the analysis of the environmental and safety characteristics of those reactions. PhD1 will spend the third (and last) year of his thesis (S5, S6) working over the same task, specifically in charge of the thorough analysis of the thermodynamic properties of screened reactions by means of the predictive thermodynamic tool that he contributed to develop in WP1. In S5, PhD2 will start his activities in REACHER, working with PhD1 in the thermodynamic analysis of fluids. In this period, he will acquire the expertise in using the thermodynamic tool developed in WP1. That tool represents a key input to the development of WP3, on which PhD2 will conduct his thesis. Indeed, along 5 semesters, he will work on the process and product design step, and on the assessment of the impact of kinetics on system’s performances. At the beginning of his activity (in S5 and S6), PhD2 will also contribute to the design of the experimental cycle (task (4.a) of WP4)). In parallel, Dr. Philippe Arnoux, environmental engineer and assistant researcher at LRGP and expert in spectroscopy measurements, will assist PostDoc3 in the calibration of the spectrometer that will be acquired. P. Arnoux is an employee of CNRS (“Centre national de la recherche scientifique”); CNRS will be thus a Linked Third Party in REACHER. In S7, PostDoc3 will both work on the realization of the power cycle (WP4 (4.a)) and on the calibration of the spectrometer. He will finally conduct the experimental campaign, between S8 and S10.
 
 ### The research team
 
