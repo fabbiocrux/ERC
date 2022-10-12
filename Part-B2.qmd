@@ -97,7 +97,7 @@ This new status of humanity is given the different indicators in the natural eco
 <!-- Problem -->
 For instance, the plastic waste contamination is one of the relevant stratigraphic indicator [@porta2021; @de-la-torre2021 ].
    <!-- Major plastic problematic -->
-More precisely, the Soil and marine plastic pollution shows ecological, biogeochemical and physical thresholds and they are becoming a key component of the planetary boundaries [@ONeill2018; @raworth2017; @Rockstrom2009] threat associated with chemical pollutants.
+More precisely, the soil and marine plastic pollution shows ecological, biogeochemical and physical thresholds and they are becoming a key component of the planetary boundaries [@ONeill2018; @raworth2017; @Rockstrom2009] threat associated with chemical pollutants.
    <!-- Major plastic problematic -->
 Then, the use and disposal of plastics is a societal problem characterized by high complexity and multifaceted feedback loops that calls for a systemic view of the entire plastics value chain from producers -petrochemical companies- [@Iles2013; @DeVargasMores2018], converters [@Paletta2019], brand owners or manufacturers [@Gong2020; @Ma2020], retailers and consumers [@Confente2020; @Friedrich2020; @Filho2021], and recycling operators [@Huysveld2019; @Pazienza2020], as well as the influences of policy-makers in wider economic and societal changes [@Paletta2019].
    <!-- Paradox  -->
@@ -108,43 +108,33 @@ What are alternative trajectories for a socio-technical productive systems that 
 These major scientific questions remains open towards a sustainable transition socio-technical model.
 
 
-
-
-<!-- Anthropoce -->
-<!-- These elements are majors markups of what is recently disscused as the Anthropocene era . -->
-
-
-
-   <!-- European Union Perspective  -->
-
-
 <!-- Consequence of  Manufacturing   -->
-Thus, the globalized mass manufacturing paradigm are leading to the transgression of the 
-Therefore, 
 
-
-
-Various schools of thought are proposing alternative socio-technical manufacturing systems (and in some cases consumption), including the circular economy [@Murray2017], bioeconomy, frugal innovation and degrowth.
+### Towards circular cities: a promise to fullfill
+<!-- European Union Perspective  -->
+Various schools of thought are proposing alternative socio-technical manufacturing systems (and in some cases consumption), based on circular economy [@Murray2017], bioeconomy, frugal innovation and degrowth.
   <!-- Circular Economy blindness -->
 The circular economy concept in the policy [@EC2015], industrial [@EllenMacArthurFoundation2015] and scientific [@nobre2021; @Kirchherr2017; @Schoggl2020] arenas as an umbrella concept, but also as a contested one [@CalistoFriant2020; @rodl2022; @corvellec2021].
-
-While the first two are not directly critical to capitalism and economic growth, degrowth proponents argue that economic growth cannot be sufficiently decoupled from environmental impacts, which renders further growth of the economy unsustainable
-
-
-is bouleversing the design process to make clear that the ecological systems do not have nearly endless capacity to provide resources and adsorb wastes.
-
-
-
-
+  <!-- Circular Economy blindness -->
+While the first two are not directly critical to capitalism and economic growth, degrowth proponents argue that economic growth cannot be sufficiently decoupled from environmental impacts, which renders further growth of the economy unsustainable.
+<!-- Circular Cities -->
+Nevertheless, many cities have taken up the resource management discourse to design circular economy action plans, which aim to reduce urban environmental impacts while generating new jobs, social well-being and room for innovation. 
+<!-- Explaining Circular Cities -->
 Working to make cities more circular implies adopting a particular approach, using the concept of "territorial metabolism," designating "the set of energy and material flows brought into play by the functioning of a given territory" [@refBarles].  
 This approach consists of understanding cities as the result of a specific socio-ecological regime, no longer solely through their functions or activities, but through their flows and stocks of materials and resources. 
-Many cities have taken up the resource management discourse to design circular economy action plans, which aim to reduce urban environmental impacts while generating new jobs, social well-being and room for innovation. 
-Indeed, cities worldwide are committed to becoming more circular in their resource use, but whether or not their actions help them to reduce their environmental impacts is unclear. 
+Indeed, cities worldwide are committed to becoming more circular in their resource use, 
+Looping actions —reuse, recycling and recovery of resources (materials, energy, water, land and infrastructure)— can help to address resource scarcity and wastage in cities.
+However, whether or not their actions help them to reduce their environmental impacts is unclear [@petit-boix2022; @Petit-Boix2018] and 
+ there are many challenges to implementation (Institutional, Political, Regulatorial, Socio Economical) [@williams2019].
+<!-- European Union Perspective  -->
+Particularly, the key challengue lies in the bridging the boundaries of urban planing and urban production systems a one coherent, continuum and multi-scale design process [@Herrmann2020; @herrmann2019; @juraschek2022].
+
+
+
   <!-- Circular Economy blindness -->
-Particularly, the main deep challengue lies in the bridging the boundaries  of urban and production systems as towards a one coherent, continuum and multi-scale design process [@ref].
 
 
-<!-- Future Cities -->
+
 <!-- Figure -->
 <!-- \begin{wrapfigure}[12]{r}[0pt]{0.4\textwidth} -->
 <!-- \centering -->
@@ -173,13 +163,12 @@ The convergence of information and communication technologies (ICT) with digital
 This synergy could be transformed into a new disruptive paradigm of means of production for modular hardware [@Kostakis2013]. 
 It provides the possibility of mass diffusion of this technology, and consequently, AM is being recognised as a revolutionary  technology that could up-end the last two centuries of approaches to design and manufacturing with profound geopolitical, economic, social, demographic, environmental and security implications [@Pearce2014d, @Birtchnell2013a, @Garrido2010, @Campbell2011, @Rifkin,@Economist2012]
 
-Therefore, as an alternative of globalized manufacturing values chains,
-   <!-- Presenting distributed approach -->
-a major trend in the development of production systems seeks to establish an urban production model [@Herrmann2020; @juraschek2022] with decentralized and distributed characteristics [@priavolou2022; @cerdas2017].
+<!-- Presenting distributed approach -->
+a major trend in the development of production systems seeks to establish an urban production model [@Herrmann2020; @juraschek2022] with decentralized and distributed characteristics [@priavolou2022; @cerdas2017] as an alternative of globalized manufacturing values chains.
    <!-- DGML -->
 Aiming at a *'design global / manufacturing local'* [@Kostakis2018] seems a proto-industrialization [@sabel1985] transition that is taking place in urban settlements that could a major impact in the next short future.
    <!-- FOSH and P2P -->
-The Open Source Appropriate Technology (OSAT)[@Pearce2010] and peer-to-peer (P2P)[@Kostakis2013] approaches have been seen potential drivers to propose an alternative globalisation manufacturing paradigm[@Heikkinen2020a].
+The Open Source Appropriate Technology (OSAT)[@Pearce2010] (Open Source Appropriate Technology) and peer-to-peer (P2P)[@Kostakis2013] approaches have been seen potential drivers to propose an alternative globalisation manufacturing paradigm[@Heikkinen2020a].
    <!-- FOSH and P2P -->
 The open source (OS) approach has become well-established to provide improved product innovation over proprietary product development [@dibona1999; @raymond1999; @lakhani2004; @deek2007]. 
 The evidence is most mature for software development because free and open source software (FOSS) provides: 
