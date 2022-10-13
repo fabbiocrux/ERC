@@ -15,7 +15,7 @@
 |                                                                                                                                                                                     |
 | -   How to establish an open source value chain in order to foster resilience and technological and energetic sobriety of the urban territory?                                      |
 |                                                                                                                                                                                     |
-| -   How would the implementation of urban production systems affect the functional blocks of an urban territory?                                                                    |
+| -   In what extend the implementation of urban production systems affect the functional blocks of an urban territory?                                                               |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
