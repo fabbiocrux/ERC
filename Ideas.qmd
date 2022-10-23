@@ -11,6 +11,38 @@ subparagraph: yes
 ---
 <!-- in a context of ‘Spaceship Earth’, as an apt metaphor to chart the boundaries for a safe planet [@sterner2019]. -->
 
+Pregunta global
+-	Como establecer una métodologia sistemática de diseño, implementacion y evaluacion de sistemas de producción y reciclaje distribuidos basados en un ecosistema technologico open source, permitiendo a un territorio urbano europeo fortalecer las capacidades de resiliencia y respeto de los ecosistemas locales.
+
+Con el objetivo de identifica el proceso de diseño de un sistema de producción circular urbano, algunas preguntas relevantes son las siguientes:
+
+-	¿Como establecer el vínculo para integrar las prioridades de planificación territorial con respecto a las prioridades de sistemas de producción dentro de un contexto de economía circular urbana?
+-	¿De qué manera se puede llevar a cabo un dimensionamiento de los sistemas de producción para que entren en coherencia con los recursos y materiales (de primera y segunda mano) considerados como locales?
+-	¿Como identificar las oportunidades y barreara desde el punto de vista social, tecnológico, político y legal para la implementación de una red de producción urbana? 
+-	Cuales estrategias se pueden implementar para que los sistemas  socio-tecnicos de producción circular puedan estar en línea con las necesidades urbanas y su contribución con los SDG.?
+-	¿Como establecer una cadeana de valor open source para poder fomentar la resiliencia y la sobriedad tecnológica y energética del territorio urbano?
+-	¿De que manera la implementación de sistemas de producción urbano afectaría los bloques funcionales para de un territorio urbano? 
+-	
+
+Con el objetivo de implementar un sistema tecnológico open source apropiado para sistema de production urbano circular, algunas preguntas de investigación relevantes son las siguientes:
+
+-	¿De que manera se puede analizar el proceso de diseño de una tecnología open source apropiado para evitar lo que se conoce como la paradoja de Jevons?
+-	¿Como facilitar la adopción de las prácticas y herramientas open source, para un publico que va mas allá de los fablab/makerspaces que han sido pioneros?
+-	¿ Cual seria el modelo de negocio pertinente que adopción del open hardware parar sea las permite la introducción de 
+-	¿Como evaluar el grado de madurez de una pequeña empresa para que dentro de su estrategia pueda implementar la adopción del open hardware como practica disruptiva.? 
+-	Que tecnologías necesitan ser desarrollada para poder implementar closed-loop suply chain urbanas de 
+-	Como las technologias open source permitirían el desarrollo de sistemas productivos urbanos en coherencia para favorecer la resiliencia del territorio?
+-	Cuales son los impedimentos que hacen que el desarrollo de un ecosistema open source sea rechazado por una 
+
+
+Con el objetivo de podrier (e)valuar de una forma pluralista el desarrollo e implementación de unidades urbanas de producción, algunas preguntas relevantes son las siguientes:
+
+-	Como conectador dentro de un mismo cuadro de evaluación indicadores ecológicos, económicos 
+-	Cuales inidicadores territoriales y del sistema de production permitirían establer una escala mínima de funcionamiento, pero también una escala máxima que respete los servicios ecosistémicos urbanos?
+-	Como establecer escenarios de evolución y de impacto para que los entes decisionales del territorio puedan fomentar la adopción y el pilotaje de estas iniciativas?
+-	Cual seria la unidad funcional pertinente para poder deliminatr el rango de acción del sistema de producción/reciclado dentro del metabolismo urbano.
+-	Que consideraciones
+
 
 
 <!-- Wicked problems -->

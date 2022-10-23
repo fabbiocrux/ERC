@@ -7,7 +7,7 @@
 |                                                                                                                                                                                     |
 | -   How to establish the link to integrate territorial planning priorities with respect to production systems priorities within an urban circular economy context?                  |
 |                                                                                                                                                                                     |
-| -   What are the acceptability conditions for the deployment of urban demostrators of circularity?                                                                                  |
+| -   What are the acceptability conditions for the deployment of urban demonstrators of circularity?                                                                                 |
 |                                                                                                                                                                                     |
 | -   How to identify the opportunities and barriers from a social, technological, political and legal point of view for the implementation of an urban production/recycling network? |
 |                                                                                                                                                                                     |
@@ -33,7 +33,7 @@
 |                                                                                                                                                                    |
 | -   How to evaluate the degree of maturity of a small company so that within its strategy it can implement the adoption of open hardware as a disruptive practice? |
 |                                                                                                                                                                    |
-| -   What open source technologies needed to develop and implement a urban closed-loop suply chain ?                                                                |
+| -   What open source technologies are needed to develop and implement an urban closed-loop supply chain ?                                                          |
 |                                                                                                                                                                    |
 | -   How open source technologies would allow the development of urban productive systems in coherence to favor the resilience of the territory?                    |
 |                                                                                                                                                                    |
@@ -53,7 +53,7 @@
 |                                                                                                                                                                                           |
 | -   What would be the relevant functional unit to delimit the range of action of the production/recycling system within the urban metabolism?                                             |
 |                                                                                                                                                                                           |
-| -   What are the necessary considerations to represent the preferences of the stakeholders in the decision-making process of integration urban / manufacturing systems?                   |
+| -   What are the necessary considerations to represent the preferences of the stakeholders in the decision-making process of integration of urban / manufacturing systems?                |
 |                                                                                                                                                                                           |
-| -   How to support the process form collective consensus to the deployment of these emerging systems under a purpose oriented approach?                                                   |
+| -   How to support the form process from collective consensus to the deployment of these emerging systems under a purpose oriented approach?                                              |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

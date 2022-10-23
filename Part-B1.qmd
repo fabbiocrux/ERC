@@ -70,9 +70,11 @@ library(tidyverse)
 #library(flextable)
 ```
 
-<!--# Introducion -->
+
 
 # Section a: Extended Synopsis of the scientific proposal \[max. 5 pages\]
+
+\linenumbers
 
 ::: callout-note
 ## DRAM in a nutshell
